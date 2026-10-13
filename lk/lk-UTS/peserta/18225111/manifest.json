@@ -1,0 +1,44 @@
+{
+  "nim": "18225111",
+  "name": "Putu Nasya Adfarizka Winarta",
+  "bank_version": "2.0",
+  "package_version": "2.0",
+  "method": "Kasus 1: digit terakhir modulo 6 + 1; kasus 2/3: sampling tanpa pengulangan, hasil tetap setelah dibuat.",
+  "sessions": {
+    "1": {
+      "target": "Budi",
+      "target_id": "K1-02",
+      "source_template": "lk\\lk-UTS\\peserta\\18222041\\kasus_1_18222041.zip",
+      "source_sha256": "c563a22a931282fca88347688d38f25936d1d09549d7673659b33d08b80a8106",
+      "zip_sha256": "bbf768a2ee4df2d8202f546e792f5665d3ab52487bf03b029b1a80d7ed9e68bc"
+    },
+    "2a": {
+      "target": "Cyntia",
+      "target_id": "K2-03",
+      "source_template": "lk\\lk-UTS\\peserta\\18225035\\kasus_2a_18225035.zip",
+      "source_sha256": "f7b08f10c897894d593a66b86c724d3a9fa7859517ec0bd8b8a3b00bcd3b7e6d",
+      "zip_sha256": "96cfd8f8ca20389f36b84176dfe6571c31629f0adec682aa783c955935ea4c15"
+    },
+    "2b": {
+      "target": "Dimas",
+      "target_id": "K2-04",
+      "source_template": "lk\\lk-UTS\\peserta\\18223103\\kasus_2b_18223103.zip",
+      "source_sha256": "84679ff71be7983673db25f00cadd0248b44adc4a79ac682eac28d1d4ea98e39",
+      "zip_sha256": "9f62aa0efdca89b4e6c744a55c489a80234060dd4067ec110a242ae3943ad592"
+    },
+    "3a": {
+      "target": "Dimas",
+      "target_id": "K3-04",
+      "source_template": "lk\\lk-UTS\\peserta\\18225017\\kasus_3a_18225017.zip",
+      "source_sha256": "2c22ecff7a7750677806e0dd7ff6480adea5730e9c8616c86dae848b64994064",
+      "zip_sha256": "4717f737e931feab7b66d3ffab0eb21d6ca107da7175eb4785eefda0f30711b4"
+    },
+    "3b": {
+      "target": "Fajar",
+      "target_id": "K3-06",
+      "source_template": "lk\\lk-UTS\\peserta\\18225005\\kasus_3b_18225005.zip",
+      "source_sha256": "fe4638ce0c09e083466260cfb63da41b3335997ae5d8f6ffa7deaebaa217a8b8",
+      "zip_sha256": "a9c84642c63a4adb10383ebc44bc80d6f40a44c74f896e7e9a66f86ecc9bb2e4"
+    }
+  }
+}

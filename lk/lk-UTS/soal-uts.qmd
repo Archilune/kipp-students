@@ -2,7 +2,7 @@
 
 Cari nama atau NIM Anda pada tabel berikut, lalu unduh kelima file ZIP soal. Ambil paket sesuai NIM Anda.
 
-Password semua ZIP mahasiswa: uts-1-kipp-2026.
+Paket aktif versi 2.0 tidak menggunakan password.
 
 | NIM | Nama mahasiswa | Soal 1 | Soal 2.a | Soal 2.b | Soal 3.a | Soal 3.b |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -63,6 +63,7 @@ Password semua ZIP mahasiswa: uts-1-kipp-2026.
 | 18225105 | Athaillah Akmalu Ramadhan | [Unduh 1](peserta/18225105/kasus_1_18225105.zip) | [Unduh 2.a](peserta/18225105/kasus_2a_18225105.zip) | [Unduh 2.b](peserta/18225105/kasus_2b_18225105.zip) | [Unduh 3.a](peserta/18225105/kasus_3a_18225105.zip) | [Unduh 3.b](peserta/18225105/kasus_3b_18225105.zip) |
 | 18225107 | Muhammad Kafka Ghaisan Yusuf | [Unduh 1](peserta/18225107/kasus_1_18225107.zip) | [Unduh 2.a](peserta/18225107/kasus_2a_18225107.zip) | [Unduh 2.b](peserta/18225107/kasus_2b_18225107.zip) | [Unduh 3.a](peserta/18225107/kasus_3a_18225107.zip) | [Unduh 3.b](peserta/18225107/kasus_3b_18225107.zip) |
 | 18225109 | Banu Agil Triyanto | [Unduh 1](peserta/18225109/kasus_1_18225109.zip) | [Unduh 2.a](peserta/18225109/kasus_2a_18225109.zip) | [Unduh 2.b](peserta/18225109/kasus_2b_18225109.zip) | [Unduh 3.a](peserta/18225109/kasus_3a_18225109.zip) | [Unduh 3.b](peserta/18225109/kasus_3b_18225109.zip) |
+| 18225111 | Putu Nasya Adfarizka Winarta | [Unduh 1](peserta/18225111/kasus_1_18225111.zip) | [Unduh 2.a](peserta/18225111/kasus_2a_18225111.zip) | [Unduh 2.b](peserta/18225111/kasus_2b_18225111.zip) | [Unduh 3.a](peserta/18225111/kasus_3a_18225111.zip) | [Unduh 3.b](peserta/18225111/kasus_3b_18225111.zip) |
 | 18225113 | Naufal Rasya | [Unduh 1](peserta/18225113/kasus_1_18225113.zip) | [Unduh 2.a](peserta/18225113/kasus_2a_18225113.zip) | [Unduh 2.b](peserta/18225113/kasus_2b_18225113.zip) | [Unduh 3.a](peserta/18225113/kasus_3a_18225113.zip) | [Unduh 3.b](peserta/18225113/kasus_3b_18225113.zip) |
 | 18225115 | Muhammad Rafi Fadillah | [Unduh 1](peserta/18225115/kasus_1_18225115.zip) | [Unduh 2.a](peserta/18225115/kasus_2a_18225115.zip) | [Unduh 2.b](peserta/18225115/kasus_2b_18225115.zip) | [Unduh 3.a](peserta/18225115/kasus_3a_18225115.zip) | [Unduh 3.b](peserta/18225115/kasus_3b_18225115.zip) |
 | 18225117 | Omerio Orlando Manalu | [Unduh 1](peserta/18225117/kasus_1_18225117.zip) | [Unduh 2.a](peserta/18225117/kasus_2a_18225117.zip) | [Unduh 2.b](peserta/18225117/kasus_2b_18225117.zip) | [Unduh 3.a](peserta/18225117/kasus_3a_18225117.zip) | [Unduh 3.b](peserta/18225117/kasus_3b_18225117.zip) |
