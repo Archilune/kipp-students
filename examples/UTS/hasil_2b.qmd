@@ -192,7 +192,7 @@ Skala 1–4. Bobot sama. Ini usulan AI, bukan nilai final; moderasi dosen diperl
 
 **Jumlah skor: 18 / 24 → usulan nilai: 75** (hanya bila keenam dimensi lengkap; ini usulan AI untuk moderasi dosen).
 
-Catatan: nilai keseluruhan Kasus 2 belum dihitung karena sesi 2a belum dijalankan. Sesuai prompt, nilai Kasus 2 = rata-rata sesi 2a/2b, dan bobot tiga kasus menunggu ketetapan dosen.
+Catatan: nilai keseluruhan Kasus 2 belum dihitung karena sesi 2a belum dijalankan. Sesuai prompt, nilai Kasus 2 = rata-rata sesi 2a/2b, dan bobot UTS adalah 10% makalah dan 18% per sesi; kontribusi Kasus 1/2/3 masing-masing 18%/36%/36%.
 
 ## C.6 Hasil Tujuan dan Perubahan ASK (terpisah dari nilai)
 - Tujuan: tercapai sebagian — redistribusi tugas dan kesepakatan waktu tercapai; hubungan terjaga.
@@ -229,3 +229,5 @@ Catatan: nilai keseluruhan Kasus 2 belum dihitung karena sesi 2a belum dijalanka
 - Sesi 2b selesai dan dikonfirmasi.
 - Sesi berikutnya yang ditawarkan: **2a** (Kasus 2, brief sama, dimulai baru) atau sesi lain sesuai urutan 1, 2a, 2b, 3a, 3b.
 - Lima QMD diunggah mahasiswa melalui portal; AI tidak mengklaim mengirim.
+
+{{< include "../../includes/uts-penilaian.md" >}}

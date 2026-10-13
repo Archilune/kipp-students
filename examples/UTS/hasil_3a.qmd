@@ -176,3 +176,5 @@ Hari Jumat dan ungkapan relatif ?dua hari lagi? dalam kutipan tidak cocok dengan
 - **Batas Bukti:** 
   1. Interaksi ini berbasis simulasi teks yang merekam isi pernyataan, bukan intonasi suara atau bahasa tubuh non-verbal.
   2. Penerimaan Ali merupakan representasi simulasi kesiapan; adopsi sebenarnya di dunia nyata tetap bergantung pada keberhasilan teknis dan penerimaan psikologis staf lapangan saat demo berlangsung.
+
+{{< include "../../includes/uts-penilaian.md" >}}

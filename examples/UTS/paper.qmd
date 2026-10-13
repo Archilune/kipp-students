@@ -257,3 +257,5 @@ The Myers & Briggs Foundation. (tanpa tahun-b). *MBTI code of ethics*. [Kode eti
 The Myers & Briggs Foundation. (tanpa tahun-c). *Myers-Briggs overview*. [Ikhtisar kerangka](https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/). Diakses 4 Oktober 2026.
 
 The Myers & Briggs Foundation. (tanpa tahun-d). *Your best-fit MBTI type*. [Verifikasi tipe](https://www.myersbriggs.org/unique-features-of-myers-briggs/best-fit-type/). Diakses 4 Oktober 2026.
+
+{{< include "../../includes/uts-penilaian.md" >}}

@@ -43,3 +43,5 @@ Untuk bisa mengerjakan UTS ini dengan hasil yang memuaskan, baca dokumen [konsep
 {{< include "petunjuk-uts.md" >}}
 
 {{< include "soal-uts.qmd" >}}
+
+{{< include "../../includes/uts-penilaian.md" >}}

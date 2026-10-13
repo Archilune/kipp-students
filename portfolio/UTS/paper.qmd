@@ -121,3 +121,5 @@ Makalah ini menjawab empat pertanyaan:
 ## Daftar Pustaka {.unnumbered}
 
 [Cantumkan hanya sumber yang benar-benar dibaca/digunakan. Gunakan format konsisten dan tautan/DOI yang tepat; pastikan setiap sitasi memiliki entri.]
+
+{{< include "../../includes/uts-penilaian.md" >}}

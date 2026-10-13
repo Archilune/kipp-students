@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - "assets/**"
+    - "lk/lk-UTS/peserta/**/*.zip"
+    - "assessment/llm-assessment-prompts.md"
     - "slides-pdf/*.pdf"
   render:
     - "*.qmd"
@@ -13,6 +15,7 @@ project:
     - "examples/UTS/*.qmd"
     - "assessment/*.qmd"
     - "lk/*.qmd"
+    - "lk/lk-UTS/*.qmd"
     - "slides/*.qmd"
     - "slides-pdf/*.qmd"
 

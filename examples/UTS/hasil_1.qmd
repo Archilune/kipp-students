@@ -763,7 +763,7 @@ Uji ulang menggunakan dua kondisi hipotetis: pekerjaan lain yang menarik perhati
 | Evaluasi dan adaptasi | BT | U026: “membatasi diri dari terlalu banyak komitmen”; U030: “milestone”; U031: “belum punya dasar” | Ada respons terhadap kendala baru serta pengakuan keterbatasan; indikator konkret dan revisi pesan diri belum lengkap |
 | Refleksi dan lesson learned | BT | U032: “mengurutkannya itu sesuai kemampuan kita untuk menjawabnya”; “kita serahkan ke pada yang ahli” | Pelajaran pengelolaan distraksi dan transfer dinyatakan; perubahan ASK belum dinilai eksplisit oleh peserta dengan bukti rinci. Rubrik numerik tidak tersedia |
 
-Nilai sesi = jumlah skor / 24 × 100 hanya dapat dihitung bila keenam skor sah telah tersedia. **Nilai sesi belum dihitung.** Evaluasi ini merupakan usulan AI untuk moderasi dosen, bukan nilai resmi. Nilai keseluruhan lima sesi dan bobot antarkasus tidak dihitung.
+Nilai sesi = jumlah skor / 24 × 100 hanya dapat dihitung bila keenam skor sah telah tersedia. **Nilai sesi belum dihitung.** Evaluasi ini merupakan usulan AI untuk moderasi dosen, bukan nilai resmi. Nilai akhir UTS belum dihitung karena nilai makalah dan lima sesi belum lengkap. Bobotnya 10% makalah dan 18% per sesi.
 
 ## Refleksi dan lesson learned mahasiswa
 
@@ -795,3 +795,4 @@ Sumber: U026, U028–U029, U032. Prinsip pengelolaan distraksi dirangkum dalam A
 6. Laporan ini dibuat setelah konfirmasi U033. Penyelesaian file tidak berarti seluruh indikator asesmen sudah teramati.
 7. Pengumpulan melalui portal dilakukan oleh mahasiswa setelah mengunduh dan memeriksa laporan. Tidak ada pengiriman ke portal oleh AI dalam sesi ini.
 
+{{< include "../../includes/uts-penilaian.md" >}}

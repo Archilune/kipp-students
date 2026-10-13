@@ -211,3 +211,5 @@ Refleksi karakter mahasiswa tersedia di U015. Pelajaran utamanya adalah mengubah
 ## Tindak lanjut dan batas bukti
 
 Komunikator mengirim panduan sebelum jadwal relatif dua hari setelah sesi. Budi memilih staf dan memeriksa latihan prosedur cadangan. Demo AI hanya dilanjutkan jika kesiapan disepakati; evaluasi membandingkan ketepatan, waktu, dan koreksi. Ini rencana dalam ilustrasi, bukan tindakan yang telah terlaksana. Teks tidak menunjukkan prosodi atau bahasa tubuh; kesiapan tokoh bukan bukti skill manusia; pengiriman portal tidak dilakukan. Mahasiswa wajib menjalankan paket sendiri dan menyimpan percakapan aktual lengkap.
+
+{{< include "../../includes/uts-penilaian.md" >}}

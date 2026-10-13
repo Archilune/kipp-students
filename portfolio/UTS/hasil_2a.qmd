@@ -160,3 +160,5 @@ Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, d
 [Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
 
 **Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+
+{{< include "../../includes/uts-penilaian.md" >}}

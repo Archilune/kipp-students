@@ -8,7 +8,7 @@ format:
   html:
     toc: true
     number-sections: true
-    embed-resources: true
+    embed-resources: false
 execute:
   eval: false
 ---
@@ -179,11 +179,11 @@ Angka target ditetapkan setelah kondisi awal diketahui. Persetujuan demonstrasi 
 | Tujuan dan konteks | Nyatakan tindakan yang diharapkan, nilai, batas dan indikator |
 | Persepsi dan validasi profil/status | Kaitkan dugaan dengan ucapan dan periksa melalui pertanyaan |
 | Pemilihan dan urutan repertoar | Jelaskan alasan stimulus; urutkan sesuai kesiapan |
-| Eksekusi jelas dan tulus | Sampaikan pesan ringkas, akurat, personal dan konsisten |
+| Eksekusi jelas, peduli dan konsisten | Sampaikan pesan ringkas, akurat, personal dan konsisten |
 | Evaluasi dan adaptasi | Gunakan respons berikutnya untuk memperbaiki pendekatan |
 | Refleksi dan lesson learned | Tunjukkan koreksi dugaan dan penerapannya pada uji ulang |
 
-Skala 1–4 mengikuti rubrik paket. Bukti yang belum cukup diberi BT, bukan otomatis nol. Nilai usulan per sesi dihitung hanya ketika semua dimensi teramati: jumlah skor dibagi 24, dikalikan 100. Dosen memoderasi penilaian; bobot antarkasus mengikuti ketetapan dosen [1,3].
+Skala 1–4 mengikuti rubrik paket. Bukti yang belum cukup diberi BT, bukan otomatis nol. Nilai usulan per sesi dihitung hanya ketika semua dimensi teramati: jumlah skor dibagi 24, dikalikan 100. Dosen memoderasi penilaian; bobot UTS adalah 10% makalah dan 18% untuk masing-masing dari lima sesi [1,3].
 
 Untuk menulis evaluasi yang kuat, pilih episode dan jelaskan urutannya: ucapan yang memicu dugaan, stimulus yang dipilih, respons yang muncul, serta keputusan adaptasi. Contoh format: “Saya memperkirakan hambatan K dari giliran U/AI tertentu. Setelah klarifikasi, ternyata kendalanya S. Saya mengubah penjelasan menjadi dukungan latihan. Respons selanjutnya menunjukkan ….” Isi dan kutipan harus berasal dari sesi sendiri.
 
@@ -219,3 +219,5 @@ Ketiga kasus menghubungkan kesadaran diri, relasi yang bertanggung jawab, dan pe
 [2] Tim pengembangan asesmen KIPP. 2026. *Prompt Umum Asesmen UTS KIPP 2026*, versi 2.0. Dokumen internal: `02-prompt-umum-kasus-1-2-3.md`.
 
 [3] Tim pengembangan asesmen KIPP. 2026. *Petunjuk UTS KIPP 2026*, versi 2.0. Dokumen internal: `petunjuk-uts.md`. Penugasan pada paket individual berlaku untuk nama target dan laporan masing-masing.
+
+{{< include "../../includes/uts-penilaian.md" >}}

@@ -31,5 +31,6 @@ Assessment menilai **perilaku komunikasi yang dapat diamati**, bukan kepribadian
 - **Authentic:** kontribusi mahasiswa dan penggunaan AI dijelaskan.
 - **Developmental:** memperlihatkan feedback, adaptation, atau perubahan.
 
-Gunakan [rubrik universal](rubric.qmd) untuk semua performance dan [indeks portfolio](../portfolio/index.qmd) untuk melihat status pencapaian mingguan.
+Gunakan [rubrik universal](rubric.qmd) untuk performance mingguan selain UTS. UTS memakai enam dimensi pada paket aktif dan bobot khusus di bawah; gunakan [prompt Minggu 08](llm-assessment-prompts.md#prompt-minggu-08---uts-performance-evidence-package) dan [indeks portfolio](../portfolio/index.qmd) untuk melihat status pencapaian mingguan.
 
+{{< include "../includes/uts-penilaian.md" >}}

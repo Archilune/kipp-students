@@ -306,7 +306,7 @@ CAKUPAN DAN ACUAN
 
 EVIDENCE WAJIB
 1. Halaman indeks portfolio Minggu 08: identitas/kode anonim, versi paket, modalitas, serta daftar makalah dan lima laporan sesi beserta statusnya.
-2. Makalah pra-UTS tentang empat pertanyaan MBTI, komunikasi efektif, pengenalan preferensi beserta batasnya, serta SWOT-like/PASK dan pertumbuhannya. Periksa kelengkapan dan dasar sumber secara terpisah; jangan membuat skor atau bobot makalah yang belum ditetapkan dosen.
+2. Makalah pra-UTS tentang empat pertanyaan MBTI, komunikasi efektif, pengenalan preferensi beserta batasnya, serta SWOT-like/PASK dan pertumbuhannya. Periksa kelengkapan dan dasar sumber secara terpisah; makalah berbobot 10%. Gunakan nilai makalah dosen atau rubrik makalah resmi; bila keduanya belum tersedia, tandai BT dan jangan mengarang skor.
 3. Laporan sesi 1, 2a, 2b, 3a, dan 3b sesuai penugasan individual. Tiap laporan memuat tujuan/konteks, diagnosis awal dan validasinya, rencana/repertoar, transkrip lengkap dengan ID giliran dan penutur, hasil/evaluasi, uji ulang, refleksi, tindak lanjut, batas bukti, dan konfirmasi akhir mahasiswa.
 4. Bukti penggunaan AI sebagai simulator lawan bicara dan, jika ada, pembantu penyusunan laporan: kontribusi mahasiswa, output yang digunakan/diubah/ditolak, serta human review. Bedakan konfigurasi simulator, percakapan aktual, dan artefak akhir.
 
@@ -325,7 +325,8 @@ Gunakan skor bulat 1–4 sesuai indikator resmi paket. Fokus pemeriksaan di atas
 PERHITUNGAN DAN KEPUTUSAN
 - Nilai setiap sesi = jumlah enam skor / 24 x 100, hanya jika keenam skor sah tersedia. Jika ada BT atau sesi belum tersedia, tulis "Belum dihitung"; jangan menghitung dari sebagian dimensi.
 - Nilai Kasus 1 mengikuti nilai sesi 1. Nilai Kasus 2 dapat diringkas sebagai rata-rata nilai sesi 2a dan 2b; Kasus 3 sebagai rata-rata nilai sesi 3a dan 3b. Hitung rata-rata hanya jika kedua nilai sesi dapat dihitung.
-- Jangan menghitung nilai keseluruhan UTS atau mengasumsikan bobot antarkasus/makalah sebelum ada ketetapan dosen.
+- Bobot nilai akhir UTS: makalah 10%, sesi 1/2a/2b/3a/3b masing-masing 18% (total 100%). Semua nilai komponen pada skala 0–100. Nilai akhir = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b). Hitung hanya jika nilai makalah dan kelima sesi sah tersedia. Jika ada BT/komponen belum tersedia, tulis "Belum dihitung"; jangan mengganti dengan nol atau menormalisasi ulang bobot.
+- Kontribusi Kasus 1 = 18%, Kasus 2 = 36%, Kasus 3 = 36%. Rata-rata kasus hanya ringkasan dan tidak dihitung lagi sebagai komponen tambahan.
 - Jangan menerapkan kategori total 5–20 atau ambang Tercapai mingguan pada UTS. Jika kriteria kelulusan/pencapaian UTS belum diberikan, tulis "Keputusan pencapaian menunggu ketetapan dosen".
 - Bedakan self-assessment mahasiswa, usulan penilaian AI, dan nilai resmi dosen. Seluruh skor yang Anda keluarkan adalah usulan untuk moderasi dosen.
 
@@ -340,12 +341,12 @@ FORMAT OUTPUT KHUSUS UTS
 1. Ringkasan: cakupan sesi yang diperiksa, acuan/versi paket, status evidence (Lengkap/Parsial/Tidak memadai), dan keterbatasan utama. Nyatakan keputusan pencapaian sesuai ketetapan dosen atau belum dapat ditetapkan.
 2. Pemeriksaan evidence wajib: tabel artefak/sesi, status (Ada/Parsial/Tidak ada/Tidak dapat diverifikasi), dan dasar pemeriksaan. Pisahkan makalah dari evidence performance.
 3. Penilaian per sesi: untuk masing-masing sesi 1, 2a, 2b, 3a, 3b, tampilkan tabel enam dimensi dengan kolom skor 1–4/BT, ID dan kutipan bukti, serta alasan sesuai indikator resmi. Tandai sesi yang belum tersedia dan jangan mengarang skor. Cantumkan jumlah /24 dan nilai /100 hanya jika dapat dihitung.
-4. Rekap: tabel nilai kelima sesi serta nilai Kasus 1, 2, dan 3 atau "Belum dihitung". Nyatakan bobot/nilai keseluruhan dan nilai makalah belum ditetapkan bila acuan dosen belum tersedia.
+4. Rekap: tabel nilai kelima sesi serta nilai Kasus 1, 2, dan 3 atau "Belum dihitung". Tampilkan nilai makalah (10%) dan kelima sesi (masing-masing 18%), kontribusi berbobot, serta nilai akhir /100 atau "Belum dihitung". Tandai nilai makalah BT jika nilai dosen/rubrik makalah resmi belum tersedia. Pisahkan usulan AI dari nilai resmi dosen.
 5. Kekuatan berbasis evidence (maksimal tiga) dan analisis adaptasi lintas target tanpa skor tambahan.
 6. Satu prioritas perbaikan utama: perilaku, cara practice/uji ulang, evidence baru, dan indikator keberhasilan. Tambahkan maksimal dua saran jika perlu.
 7. Maksimal tiga pertanyaan/evidence yang paling menentukan penilaian, serta catatan integritas tentang akses, kontribusi individual, AI, privacy, authority, dan batas simulasi.
 
-Setelah prompt ini, baca EVIDENCE MAHASISWA. Untuk audit ulang Minggu 08, periksa enam dimensi, BT, rumus /24 x 100, kelayakan rata-rata dua sesi, dan larangan asumsi bobot/ambang pencapaian. Jika perlu koreksi, keluarkan ulang assessment dengan format khusus UTS ini.
+Setelah prompt ini, baca EVIDENCE MAHASISWA. Untuk audit ulang Minggu 08, periksa enam dimensi, BT, rumus /24 x 100, kelayakan rata-rata dua sesi, dan bobot makalah 10% + lima sesi masing-masing 18%, kelengkapan enam komponen sebelum agregasi, serta larangan asumsi ambang pencapaian. Jika perlu koreksi, keluarkan ulang assessment dengan format khusus UTS ini.
 ```
 
 ## Prompt Minggu 09 - Desire-State Communication

@@ -27,7 +27,7 @@ Pra-UTS menghasilkan satu makalah; UTS menghasilkan lima laporan yang dijalankan
 
 
 ::: {.callout-note title="Versi penugasan"}
-Paket ZIP contoh yang tersedia saat penyusunan memakai bank/paket **2.0**, tanpa password. Petunjuk umum di folder `lk` masih menyebut versi sebelumnya yang berpassword. Paket menyatakan prioritas `PENUGASAN.md`, kemudian prompt umum, profil, dan template. Baca paket aktif; jangan mengubah target atau versi laporan lama secara diam-diam. Bila ZIP tidak terbaca, ekstrak empat berkasnya ke folder terpisah per sesi.
+Paket ZIP contoh yang tersedia saat penyusunan memakai bank/paket **2.0**, tanpa password. Petunjuk umum di folder `lk` mengikuti paket aktif versi 2.0 tanpa password. Paket menyatakan prioritas `PENUGASAN.md`, kemudian prompt umum, profil, dan template. Baca paket aktif; jangan mengubah target atau versi laporan lama secara diam-diam. Bila ZIP tidak terbaca, ekstrak empat berkasnya ke folder terpisah per sesi.
 :::
 
 ::: {.callout-note title="Strategi UTS"}
@@ -161,7 +161,7 @@ SWOT-like membantu membaca peluang/ancaman dan mampu/belum mampu dari sudut pand
 
 Skala mengikuti ketentuan **1–4 atau BT**. BT berarti belum dapat ditetapkan, bukan nol. Bahan yang parsial dan naskah ilustratif tidak dijadikan nilai performa mahasiswa. Skor tinggi dalam bahan lama tidak dipakai sebagai nilai resmi dan tidak diwariskan ke contoh baru.
 
-Jika keenam skor sah tersedia, nilai sesi dihitung dengan `jumlah skor / 24 × 100`. Nilai kasus 2 dapat diringkas dari rata-rata 2a dan 2b, kasus 3 dari 3a dan 3b, setelah memeriksa BT. Bobot antarkasus menunggu ketetapan dosen. **Tidak ada nilai keseluruhan dihitung pada paket contoh ini.**
+Jika keenam skor sah tersedia, nilai sesi dihitung dengan `jumlah skor / 24 × 100`. Nilai kasus 2 dapat diringkas dari rata-rata 2a dan 2b, kasus 3 dari 3a dan 3b, setelah memeriksa BT. Bobot UTS adalah 10% makalah dan 18% untuk masing-masing dari lima sesi. Nilai akhir = 0,10 × nilai makalah + 0,18 × jumlah nilai kelima sesi. **Nilai akhir contoh belum dihitung karena nilai komponen yang sah belum lengkap; bahan ilustratif bukan nilai performance mahasiswa.**
 
 ## Pemeriksaan sebelum pengumpulan
 
@@ -175,3 +175,5 @@ Jika keenam skor sah tersedia, nilai sesi dihitung dengan `jumlah skor / 24 × 1
 - Nama berkas mengikuti paket, diletakkan di `portfolio/UTS`, dan unggahan portal dilakukan sendiri.
 
 [Buka template portfolio Minggu 8](../portfolio/week-08.qmd) · [Buka instruksi UTS](../lk/lk-UTS/index.qmd) · [Kembali ke daftar contoh](index.qmd)
+
+{{< include "../includes/uts-penilaian.md" >}}

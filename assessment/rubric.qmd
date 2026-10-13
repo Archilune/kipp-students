@@ -3,6 +3,8 @@ title: "Rubrik Universal"
 sidebar: assessment
 ---
 
+Rubrik lima dimensi dan total /20 berikut berlaku untuk performance mingguan selain UTS. UTS memakai enam dimensi, skor 1–4/BT, dan nilai sesi /24 × 100 sesuai paket aktif. Ambang pencapaian rubrik universal tidak diterapkan otomatis pada UTS.
+
 ## Tingkat pencapaian
 
 | Level | Nama | Deskripsi umum |
@@ -35,3 +37,4 @@ Jumlahkan lima dimensi. Skor maksimum adalah **20**.
 
 Skor tidak berdiri sendiri. Assessor tetap memberikan evidence yang mendukung skor dan satu prioritas perbaikan.
 
+{{< include "../includes/uts-penilaian.md" >}}

@@ -1,188 +1,106 @@
 ---
-title: "Minggu 8 — UTS Performance Lab"
-subtitle: "Dari mengenali person hingga membangun interest"
+title: "Minggu 8 — UTS KIPP"
+subtitle: "Makalah dan lima sesi komunikasi berbasis evidence"
 ---
 
-## Hari ini bukan ujian hafalan
+## Tujuan UTS
 
-<p class="big-idea">UTS menguji kemampuan membaca person, memilih respons, dan mengubah komunikasi berdasarkan evidence saat percakapan berlangsung.</p>
+UTS menguji diagnosis, validasi, pemilihan repertoar, eksekusi, evaluasi, adaptasi, dan refleksi. Respons target mengubah alur percakapan. Keberhasilan tidak mensyaratkan target selalu setuju.
 
-## Kompetensi yang diintegrasikan
+## Persiapan
 
-::: {.flow .compact}
-<div>Person</div><div>Intra-Self</div><div>Relationship</div><div>Language</div><div>Professional Value</div><div>Target</div><div>Attention</div><div>Interest</div>
-:::
+- Baca [instruksi UTS](../lk/lk-UTS/index.qmd) dan konsep versi 2.0.
+- Susun makalah pra-UTS tentang empat pertanyaan MBTI dan SWOT-like/PASK.
+- Unduh lima ZIP sesuai NIM; paket aktif versi 2.0 tanpa password.
+- Gunakan PENUGASAN.md, prompt_umum.md, profil_komunikan.md, dan template_laporan.qmd pada sesi aktif.
 
-## Alur 120 menit
+## Lima sesi individual
 
-| Waktu | Kegiatan |
-|---|---|
-| 0–15 | Briefing, case, dan rubric |
-| 15–30 | Warm-up demonstration |
-| 30–80 | Performance Round 1 |
-| 80–95 | Peer feedback dan AI reflection |
-| 95–115 | Replay / improvement round |
-| 115–120 | Closing reflection |
+| Sesi | Kasus | Sasaran |
+|---|---|---|
+| 1 | Memimpin diri dan terus belajar | Diri; tokoh pembanding sesuai paket |
+| 2a | Persahabatan dan profesionalitas | Target pertama Kasus 2 |
+| 2b | Persahabatan dan profesionalitas | Target kedua yang berbeda |
+| 3a | Menawarkan solusi TI/AI | Customer pertama Kasus 3 |
+| 3b | Menawarkan solusi TI/AI | Customer kedua yang berbeda |
 
-## Objective UTS
+Jalankan berurutan 1, 2a, 2b, 3a, 3b. Sesi dengan target baru dimulai baru; kepercayaan tokoh sebelumnya tidak diwariskan.
 
-Communicator membawa target dari:
+## Peran dan proses
 
-::: {.flow}
-<div><strong>TARGET</strong><br>person dan character tepat</div>
-<div><strong>ATTENTION</strong><br>problem diakui</div>
-<div><strong>INTEREST</strong><br>solution layak dieksplorasi</div>
-:::
+Mahasiswa bertindak sebagai komunikator. AI menjadi simulator sasaran dan fasilitator evaluasi, dengan penanda tahap yang jelas.
 
-Mencapai interest bukan satu-satunya ukuran. **Adaptasi yang tepat terhadap penolakan juga kompeten.**
+Identifikasi → tujuan dan rencana → simulasi awal → evaluasi sementara → uji ulang → hasil/refleksi → konfirmasi → laporan QMD.
 
-## Performance berbeda dari presentation
+Observer atau latihan teman dapat membantu persiapan, tetapi bukan syarat wajib pengganti laporan dan transkrip UTS.
 
-::: {.contrast}
-::: {}
-### Presentation
+## Diagnosis dan validasi
 
-Alur terutama dikendalikan presenter; isi dapat direncanakan relatif lengkap.
-:::
-::: {}
-### Communication performance
+- Pisahkan ucapan/perilaku, interpretasi, dan hipotesis.
+- Gali kebutuhan, hambatan A/K/S, serta persepsi SWOT subjektif.
+- Validasi melalui pertanyaan dan respons aktual.
+- Preferensi MBTI bukan diagnosis dari satu ujaran.
+- Pilih stimulus sesuai kebutuhan dan kesiapan target.
 
-Response partner mengubah alur; communicator harus mendengar, menilai state, dan beradaptasi.
-:::
-:::
+## TAIDA sesuai konteks
 
-## Tiga peran
+Target, Attention, Interest, Desire, dan Action membantu perencanaan dan pembacaan kesiapan. Alur dapat kembali ke klarifikasi ketika muncul keberatan.
 
-### Communicator
+Nilai diagnosis dan adaptasi, termasuk penundaan atau penolakan yang beralasan. Bedakan kesepakatan simulasi dari tindakan nyata di luar sesi.
 
-Mengenali state dan memilih pitch.
+## Uji ulang dan refleksi
 
-### Target person
+Terapkan perbaikan pada hambatan serupa; jangan hanya menyatakan niat. Hubungkan stimulus → respons → interpretasi → adaptasi → bukti berikutnya.
 
-Memainkan character, objective, dan hidden information secara konsisten.
+Tunjukkan dugaan yang dikoreksi, pembelajaran, tindak lanjut, dan batas transfer. Tahap yang belum dilakukan dinyatakan belum teramati.
 
-### Observer
-
-Mencatat evidence, bukan memberi label kepribadian.
-
-## Performance card bukan script
-
-Performance card berisi:
-
-- person dan character;
-- situation dan objective;
-- initial state;
-- evidence yang tersedia;
-- repertoire yang mungkin digunakan;
-- batas etis.
-
-Kalimat harus lahir dari percakapan, bukan hafalan.
-
-## Case options
-
-1. Anggota project group tidak menyelesaikan bagian tugas.
-2. Antrean dan kesalahan pesanan di kantin kampus.
-3. Organisasi mahasiswa kesulitan merekrut volunteer.
-4. Small business kehilangan repeat customer.
-5. Mahasiswa kesulitan memahami satu mata kuliah.
-
-## Hidden information tidak boleh ditebak
-
-Target mungkin memiliki:
-
-- constraint waktu;
-- pengalaman buruk sebelumnya;
-- authority terbatas;
-- concern yang belum disampaikan;
-- objective yang berbeda.
-
-Communicator harus menemukannya melalui question dan listening.
-
-## Warm-up: bad vs improved performance
-
-Kelas membandingkan dua versi dan mencatat:
-
-- stereotype versus person recognition;
-- feature dump versus problem discovery;
-- monolog versus closed loop;
-- memaksa agreement versus membaca state;
-- menang sendiri versus menjaga relationship.
-
-## Round 1: enam menit per performance
-
-::: {.activity}
-**Kelompok tiga — rotasi peran**
-
-- 1 menit: membaca card dan menetapkan objective.
-- 4 menit: interaction.
-- 1 menit: observer menyebutkan evidence utama.
-
-Observer tidak melakukan coaching selama interaction.
-:::
-
-## Rubrik UTS
+## Rubrik UTS: enam dimensi
 
 | Dimensi | Evidence yang dicari |
 |---|---|
-| Person & Character | target tidak direduksi menjadi kategori |
-| Problem, Objective & State | initial state dan problem dibaca akurat |
-| Repertoire & Language | cara dan bahasa sesuai target |
-| Response & Adaptation | respons didengar dan strategi berubah |
-| Progress & Relationship | ada movement tanpa merusak relasi |
+| Tujuan dan konteks | Tindakan, nilai, batas, indikator |
+| Persepsi dan validasi profil/status | Dugaan, pertanyaan validasi, koreksi |
+| Pemilihan dan urutan repertoar | Alasan stimulus dan urutannya |
+| Eksekusi jelas, peduli dan konsisten | Ujaran, mendengarkan, dukungan, penghormatan pilihan |
+| Evaluasi dan adaptasi | Respons aktual mengubah pendekatan |
+| Refleksi dan lesson learned | Pembelajaran, uji ulang, batas transfer |
 
-## Observer sheet
+## Skor sesi
 
-Catat kalimat atau tindakan yang menjadi evidence:
+Skor 1–4 mengikuti indikator resmi paket. Gunakan BT bila indikator atau bukti belum memadai; BT bukan nol.
 
-- kapan target mengakui problem;
-- kapan curiosity muncul;
-- pertanyaan yang membuka hidden information;
-- asumsi yang tidak diuji;
-- adaptation setelah response;
-- keadaan relationship di akhir.
+**Nilai sesi = jumlah enam skor /24 × 100**, hanya jika semua skor sah tersedia. Setiap skor menunjuk ID giliran, kutipan, dan alasan. Usulan AI memerlukan moderasi dosen.
 
-## Feedback yang dapat digunakan
+## Bobot UTS
 
-Gunakan format:
+| Komponen | Bobot |
+|---|---:|
+| Makalah pra-UTS | 10% |
+| Sesi 1 | 18% |
+| Sesi 2a | 18% |
+| Sesi 2b | 18% |
+| Sesi 3a | 18% |
+| Sesi 3b | 18% |
+| **Total** | **100%** |
 
-> Ketika Anda mengatakan/melakukan [evidence], target merespons [evidence]. Itu menunjukkan [state]. Pada replay, coba [specific behavior].
+## Nilai akhir
 
-Hindari “kurang percaya diri” tanpa bukti perilaku.
+**UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**
 
-## AI reflection
+Semua komponen skala 0–100. Hitung hanya setelah nilai makalah dan lima sesi tersedia. Jangan mengubah BT menjadi nol atau menormalisasi ulang bobot.
 
-Jika transcript tersedia, gunakan AI untuk menandai turn-taking, questions, assumptions, paraphrase, dan state signals.
+Gunakan nilai makalah dosen atau rubrik makalah resmi; jangan mengarang skor makalah. Ringkasan Kasus 2/3 boleh berupa rata-rata dua sesi, tanpa penghitungan ganda.
 
-<p class="danger">AI tidak memberi nilai akhir dan tidak menggantikan evidence observer.</p>
+## Laporan dan pengumpulan
 
-## Replay: ubah satu hal penting
+Serahkan makalah paper.qmd serta lima laporan sesuai nama dalam PENUGASAN.md ke portfolio/UTS dan portal masing-masing.
 
-::: {.activity}
-**20 menit**
+Setiap laporan: A) Identitas; B) Kasus dan Tujuan; C) Transkrip aktual lengkap dengan ID/penutur/tahap; D) Hasil, Evaluasi dan Refleksi.
 
-Pilih satu titik kegagalan dari Round 1. Ulangi bagian itu dengan perubahan spesifik: target, question, evidence, language, atau response adaptation.
-:::
+Periksa uji ulang, deklarasi AI, batas bukti, enam dimensi, dan konfirmasi akhir. Jangan merekayasa giliran yang hilang.
 
-Improvement harus terlihat, bukan hanya dijelaskan.
+## Integritas dan tindak lanjut
 
-## Performance evidence package
+Jaga privasi, bedakan kontribusi mahasiswa dari interpretasi AI, dan hormati pilihan target. Nilai resmi ditetapkan dosen; ambang pencapaian UTS mengikuti ketetapan dosen.
 
-Serahkan:
-
-- context dan initial state;
-- evidence Target, Attention, Interest;
-- satu adaptation;
-- relationship outcome;
-- peer feedback;
-- self-improvement note;
-- AI reflection yang diverifikasi.
-
-## Ethical rule
-
-<p class="big-idea">Target berhak tidak tertarik. Tugas communicator adalah menciptakan relevansi dan kejelasan secara etis, bukan memaksa movement.</p>
-
-## Refleksi penutup
-
-1. Evidence apa yang paling mengubah pembacaan saya?
-2. Pada base mana saya terlalu cepat bergerak?
-3. Perilaku apa yang akan saya bawa ke paruh kedua semester?
+[Buka portfolio Minggu 8](../portfolio/week-08.qmd) dan [contoh Minggu 8](../examples/week-08.qmd).

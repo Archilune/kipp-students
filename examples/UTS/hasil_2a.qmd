@@ -133,3 +133,5 @@ Nilai sesi dan agregasi belum dihitung.
 - **Hambatan Utama:** Ruang kerja mandiri (S), Konteks teknis (K), Kepercayaan kompetensi (A).
 
 Konfirmasi akhir dan kelanjutan sesi tidak tersedia sebagai bukti dalam bahan ini.
+
+{{< include "../../includes/uts-penilaian.md" >}}

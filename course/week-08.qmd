@@ -1,6 +1,6 @@
 ---
 title: "Minggu 8 — UTS Performance Lab"
-description: "Integrated performance dari person recognition hingga Interest."
+description: "Makalah pra-UTS dan lima sesi simulasi komunikasi dengan penilaian enam dimensi."
 ---
 
 
@@ -13,7 +13,7 @@ UTS bukan ujian hafalan atau public speaking. Performance menguji kemampuan memb
 ::: {tag="aside"}
 **Capaian utama**
 
-Menunjukkan closed-loop communication dari Target menuju Attention dan Interest.
+Menunjukkan diagnosis, eksekusi, evaluasi, adaptasi, dan pembelajaran berbasis respons dalam lima sesi UTS; TAIDA digunakan sesuai konteks.
 :::
 :::
 
@@ -42,7 +42,11 @@ Performance berbeda dari presentation karena response target mengubah alur. Kebe
 
 ## Evidence pencapaian
 
-Serahkan context, initial state, performance evidence, observer feedback, adaptation, replay, dan reflection.
+Baca [instruksi UTS](../lk/lk-UTS/index.qmd), lalu serahkan makalah `paper.qmd` dan lima laporan sesi 1, 2a, 2b, 3a, 3b dari ZIP sesuai NIM. Tiap laporan memuat identitas, tujuan/konteks, diagnosis dan validasi, transkrip lengkap, hasil/evaluasi, adaptasi, uji ulang, refleksi, dan konfirmasi akhir. Observer tambahan bersifat opsional; transkrip aktual tetap wajib.
+
+Rubrik UTS memakai enam dimensi dengan skor 1–4/BT; nilai sesi = jumlah enam skor /24 × 100 ketika lengkap.
 
 [Isi evidence UTS](../portfolio/week-08.qmd){.slide-link}
 
+
+{{< include "../includes/uts-penilaian.md" >}}
