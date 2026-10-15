@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 2b"
 subtitle: "Persahabatan dan profesionalitas - target kedua"
-author: "[Nama mahasiswa]"
+author: "Putu Nasya Adfarizka Winarta"
 lang: id
-status: "Belum dimulai"
+status: "Siap Dinilai"
 format:
   html:
     toc: true
@@ -11,154 +11,223 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2b](../../examples/UTS/hasil_2b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
+::: {.callout-tip title="Template terisi"}
+Laporan Sesi 2b KIPP telah diisi berdasarkan percakapan simulasi dan penanganan kasus profesionalitas berpasangan dengan target kedua (Elsa, K2-05). Nama berkas disesuaikan dengan ketentuan paket `hasil_2b_18225111.qmd`.
 :::
 
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Putu Nasya Adfarizka Winarta |
+| NIM | 18225111 |
+| Kelas | 01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
 | Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas - target kedua |
-| Target | [Nama dan ID target kedua sesuai ZIP 2b; berbeda dari 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Elsa, ID K2-05 |
+| Versi bank/paket | Bank 2.0; Paket Individual 2.0 |
+| Sumber penugasan | `PENUGASAN.md` dan `kasus_2b_18225111.zip` |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (koordinasi tim tugas); fiktif untuk perilaku tokoh Elsa dan skrip simulasi |
+| Kelengkapan transkrip | Lengkap (seluruh pesan dari identifikasi hingga konfirmasi U015) |
+| Nama laporan menurut paket | `hasil_2b_18225111.qmd' |
+| Konfirmasi identitas/ringkasan | U015 dan konfirmasi akhir |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief kasus menetapkan tenggat tugas kelompok 48 jam lagi, di mana rekan dekat (Elsa) belum mengirimkan bagiannya dan merasa pembagian tugas tidak adil. Mahasiswa mengajak percakapan untuk menjaga hubungan baik sekaligus menyepakati tanggung jawab.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Membantu Elsa menyelesaikan bagiannya, menjaga hubungan tetap baik, serta menyepakati tanggung jawab dan tenggat 48 jam. |
+| Keadaan awal | Tugas kelompok kurang 48 jam; Elsa belum mengirim bagiannya dan khawatir pembagian tugas memberatkannya. |
+| Indikator keberhasilan | Elsa menyampaikan hambatannya secara terbuka, tercapai kesepakatan pembagian ulang tugas, dan penyusunan format verifikasi bersama. |
+| Batas dan pilihan target | Tidak memaksakan standar teknis yang tidak relevan dan memberi ruang kontrol bagi Elsa. |
+| Tenggat | 48 jam sebelum batas pengumpulan tugas kelompok. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | S: Inisiatif tinggi dalam mengoordinasikan tim. W: Sempat menyampaikan istilah teknis yang kurang relevan. O: Menyamakan format kerja tim. T: Risiko tenggat waktu terlewati. | U007, U008 | Laporan diri; batas pada pelaksanaan nyata. |
+| Attitude | Mendukung kelancaran kerja kelompok dan peduli pada kondisi rekan satu tim. | U003, U004 | Penegasan sikap. |
+| Knowledge | Memahami pentingnya struktur data, fungsi proses, dan prosedur verifikasi dalam proyek. | U009 | Pemahaman verbal. |
+| Skill | Mengajak dialog, menyediakan tabel jadwal, serta memfasilitasi redistribusi tugas. | U011, U012 | Demonstrasi interaksi dalam simulasi. |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan secara eksplisit | - | Belum diketahui. |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STEI ITB yang menghadapi tenggat proyek kelompok ketat. | U004 | Norma akademik kelompok. |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Elsa menyelesaikan bagiannya dan sepakat dengan tenggat 48 jam. | A/K/S target | Menanyakan kabar, menggali kendala, dan menawarkan bantuan redistribusi tugas. | Keterbukaan Elsa (U003). |
+| Attention | Elsa merasa terbebani dan khawatir pembagian tugas tidak adil. | A: Menyadari beban Elsa. | Validasi perasaan dan membuka ruang diskusi kendala. | Respons kekhawatiran (U002). |
+| Interest | Elsa ingin kontribusinya bermakna tanpa merusak kualitas hasil. | A/K: Menyelaraskan sistem kerja. | Menawarkan prosedur verifikasi dan format bersama. | Minat pada prosedur (U006). |
+| Desire | Elsa termotivasi jika beban verifikasi tidak ditanggung sendirian. | A: Motivasi dukungan tim. | Melibatkan Rian dan menyepakati pengecekan akhir bersama. | Kesepakatan peran (U011). |
+| Action | Menyusun jadwal kerja bersama, redistribusi tugas awal, dan countdown 48 jam. | S: Aksi nyata kelompok. | Pembaruan tabel jadwal dan pertemuan lanjutan 20 jam jelang tenggat. | Tabel diperbarui (U012, U015). |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+## C.1 Simulasi Awal
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### U001 - Mahasiswa - Pembukaan
+"Apakabar, semoga baik-baik. Saya ingin mencek apakah Elsa baik-baik, karena saya belum dapat kabar. Apalagi kita punya deadline yang membutuhkan bagian Elsa bisa selesai, dan saya lihat Elsa belum kirim."
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 - Elsa - Respons Awal
+"Saya khawatir orang lain justru kesulitan kalau kita mengubah ini."
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### U002 - Mahasiswa - Eksplorasi
+"Kesulitan seperti apa yang Elsa lihat? Bagian mana yang perubahannya membuat orang kesulitan ya?"
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### AI002 - Elsa - Penjelasan Kekhawatiran
+"Ya... awalnya pembagian sudah jalan. Tapi belakangan ada yang harus diubah, dan saya takut yang lain jadi ikut repot. Apalagi saya sendiri belum selesai bagian saya. Saya tidak mau jadi penyebab orang lain kena imbasnya."
 
-[Tempel pesan AI persis seperti sumber.]
+### U003 - Mahasiswa - Empati
+"Wah saya jadi ikut concern, apa bisa dikomunikasikan lebih detail, atau ada jalan keluar agar yang kita kuatirkan tidak terjadi?"
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### AI003 - Elsa - Pengungkapan Beban
+"Makasih... saya senang kamu mau dengar. Begini: bagian saya itu sebenarnya mengumpulkan dan merapikan data dari dua orang. Tapi salah satu belum kirim ke saya, jadi saya belum bisa lanjut. Saya juga merasa pembagiannya agak berat di sisi saya - tapi saya tidak mau bilang 'tidak adil' gitu saja, nanti terkesan saya menolak kerja."
+
+### U004 - Mahasiswa - Tawaran Solusi
+"Oh wah, data dari siapa yang belum masuk? Saya coba cek ya. Kita bisa tata ulang pembagian bebannya ya, yang penting beban bisa sesuai skill, jadi ada usul pembagian seperti apa dan 48 jam deadline kita bisa penuhi ya."
+
+### AI004 - Elsa - Kendala Rian & Verifikasi
+"Data dari Rian yang belum masuk. Saya sudah ingatkan sekali, tapi belum ada. Kalau soal tata ulang... saya sebenarnya takut kalau saya minta dikurangi, nanti Rian atau yang lain merasa saya menghindar. Tapi kalau memang bisa dibicarakan, mungkin bagian yang paling berat buat saya itu tahap verifikasi data - itu butuh waktu lama dan saya sering ragu di situ."
+
+### U005 - Mahasiswa - Dukungan Tim
+"Rian bisa bantu verifikasi data terutama yang sumbernya dari dia. Kan Elsa tidak menghindar. Masalahnya ada di deadline yang sangat dekat. Makanya kita punya tim, supaya saling back up."
+
+### AI005 - Elsa - Validasi Peran Rian
+"Iya, masuk akal... Rian bantu verifikasi bagian dia sendiri. Itu tidak membuat saya kelihatan menghindar, karena memang data itu dari dia. Tapi kalau Rian harus verifikasi sekaligus, saya khawatir dia jadi kebingungan, dan saya tetap harus pegang alur akhirnya. Saya tidak mau layanan atau hasil kita berantakan gara-gara pembagian ini buru-buru diubah."
+
+### U006 - Mahasiswa - Prosedur Standar
+"Elsa bisa buat diagram dan prosedur verifikasi yang standar, kita semua comply ke proses ini, juga bisa buat data set dummy yang kita sebarkan sebagai alat validasi. Dengan demikian kita bisa berharap kerja masing-masing bisa digabung tanpa kesulitan ya."
+
+### AI006 - Elsa - Respons Prosedur
+"Oh, itu membantu. Kalau ada prosedur verifikasi standar dan contoh dummy, saya tidak perlu menebak-nebak dan tidak semua beban ada di saya. Tapi... apakah Rian dan yang lain benar-benar mau ikut prosedur itu? Saya sudah pernah bikin format, tapi tidak dipakai, jadi saya capek sendiri. Kalau kali ini benar-benar diikuti, saya lega."
+
+### U007 - Mahasiswa - Referensi Standar
+"Kita gunakan standar testability dari IEEE 1149.1 jadi yang semester lalu kalian semua dapat nilai A, dan saya cuma dapat B. Jang ada aplikasinya bisa 1 jam saya bikin jadi. Kalian mungkin 10 menit jadi."
+
+### AI007 - Elsa - Kebingungan Standar
+"Eh... maaf, saya agak bingung. IEEE 1149.1 itu kan standar boundary scan untuk rangkaian terintegrasi apakah itu yang kamu maksud untuk verifikasi data kita? Saya takut salah paham. Dan soal nilai A/B tadi, saya tidak tahu konteksnya. Saya hanya ingin tahu: prosedur yang kamu usulkan itu nanti benar-benar bisa kami ikuti, atau itu hanya contoh bahwa kamu bisa cepat selesai?"
+
+### U008 - Mahasiswa - Koreksi Konsep
+"Nah itu dia, saya lupa standarnya. Yang di kuliah kemarin itu apa namanya yang bisa menjamin interoperabilitas pekerjaan yang dibagi-bagi?"
+
+### AI008 - Elsa - Fokus Interoperabilitas
+"Kalau yang kamu maksud standar supaya pekerjaan bisa digabung tanpa bentrok, biasanya yang kita bahas itu *interface* dan *format* data, bukan standar perangkat keras. Tapi saya juga tidak ingat nama persisnya. Yang penting buat saya bukan namanya tapi apakah kita bisa sepakati format bersama, lalu siapa yang cek, dan kapan."
+
+### U009 - Mahasiswa - Arsitektur Data & Rian
+"Ya kita bagi menurut arsitektur data atau menurut fungsi kontrol atau proses? Atau Elsa usul yang paling optimal. Eh ini Rian sudah jawab, dia bilang butuh ngobrol sama Elsa, verifikasinya seperti apa bagusnya. Lho dia juga mikir yang sama."
+
+### AI009 - Elsa - Kenyamanan Fungsi/Proses
+"Oh, Rian sudah jawab? Bagus kalau dia juga memikirkan hal yang sama. Kalau soal pembagian menurut arsitektur data atau fungsi kontrol, saya lebih nyaman menurut **fungsi/proses**, karena itu yang saya pegang sehari-hari dan lebih mudah dicek. Tapi sebelum saya usul lebih jauh, saya ingin tahu: Rian bilang butuh ngobrol dengan saya apakah ini akan jadi rapat bertiga, atau saya dulu yang menyusun usulan, baru dibahas?"
+
+### U010 - Mahasiswa - Mengajak Rian
+"Kita ajak saja sekarang untuk gabung ya, saya teks dia, usul dibagi berdasarkan fungsi/proses ok kah?"
+
+### AI010 - Elsa - Pengecekan Akhir
+"Boleh, saya setuju dibagi berdasarkan fungsi/proses. Tapi... sebelum kamu teks Rian, saya ingin kita sepakati dulu hal kecil: siapa yang pegang pengecekan akhir? Karena kalau semua ikut verifikasi, tapi tidak ada yang memutuskan hasil akhir, saya takut malah tambah bingung. Saya bersedia bantu susun daftar fungsi dan formatnya, asal bukan saya sendirian yang menjaga itu."[cite: 33]
+
+### U011 - Mahasiswa - Kriteria dan Waktu
+"Kalau sudah ada kriterianya saya juga bisa, tapi ini soal waktu, untuk preparasi dan eksekusi. Kalau Elsa masih ada waktu sebelum tenggat, kita tetapkan Elsa dan saya dan Rian."
+
+### AI012 - Elsa - Tabel Jadwal
+"Oke, itu jelas. Kalau ada tabel jadwal, kita bisa isi bareng saat Rian datang. Saya akan bawa daftar fungsi dan format verifikasi malam ini, lalu kita update tabelnya. Saya cuma minta satu hal: setelah tabel diupdate, tolong pastikan saya tahu bagian mana yang jadi tanggung jawab saya, dan kapan batas waktunya. Kalau itu jelas, saya tenang."
+
+## C.2 Uji Ulang
+
+### Situasi Uji Ulang
+Rian datang. Tabel diperbarui: Rian pegang verifikasi data sumber, Elsa menyusun daftar fungsi + format verifikasi, mahasiswa pegang koordinasi dan pengecekan akhir. Rian menyatakan baru bisa mulai verifikasi besok malam karena acara keluarga[cite: 33, 34].
+
+### U013 - Mahasiswa - Mengambil Alih Sebagian
+"Saya ambil alih sebagian dari tugas Rian karena waktunya tidak mungkin kita hanya punya 48 jam. Nanti begitu Rian bisa, Rian akan speedup pengerjaannya."
+
+### AI013 - Elsa - Pertanyaan Verifikasi
+"Kamu ambil alih sebagian tugas Rian... oke, itu menyelamatkan waktu. Tapi kalau kamu yang ambil, siapa yang pegang pengecekan akhir? Tadi kan kamu yang di situ. Saya tidak mau nanti bagian Rian selesai, tapi tidak ada yang cek, dan akhirnya saya lagi yang menutup. Saya bersedia bantu, asal batasnya jelas. Boleh kita tulis ulang di tabel: bagian mana yang kamu ambil dari Rian, kapan, dan siapa yang verifikasi hasilnya?"
+
+### U014 - Mahasiswa - Pemotongan Logis
+"Menurut Elsa dan Rian, pemotongan paling logis seperti apa? Jadi kalau Rian sudah in lagi, Rian tinggal melanjutkan yang saya kerjakan itu, dan saya fokus pada pengecekan akhir. Konsep pengecekan akhir kita sepakati sekarang ya, supaya pada saatnya semua lengkap, kita plug-n-play."
+
+### AI014 - Elsa - Usulan Pemotongan & Kriteria
+"Kalau soal pemotongan paling logis, saya usul: ambil bagian Rian yang paling awal - tahap pengumpulan data mentah karena itu yang menahan saya. Rian nanti lanjut dari titik itu. Untuk pengecekan akhir, saya setuju kamu pegang, tapi saya minta kriterianya kita tulis sekarang: cek kelengkapan data, cek format sesuai fungsi/proses, dan cek konsistensi antar bagian. Saya bisa bantu jadi verifikator kedua untuk bagian yang saya susun, biar tidak kamu sendirian."
+
+### U015 - Mahasiswa - Keputusan & Countdown
+"OK Rian setuju ya kita memotong di situ. Pas saya paham bagian itu, jadi malam ini Rian menyerahkan duplikat data sebanyak yang sudah ada ke Elsa, lalu Rian melanjutkan setelah selesai acara keluarga itu. Saya bikin countdown dari 48 jam, mundur. Kita ketemu lagi 20 jam ya untuk dapat push terakhir."
+
+### AI015 - Elsa - Catatan & Konfirmasi Akhir
+"Oke, saya catat: malam ini Rian serahkan duplikat data yang sudah ada, saya lanjutkan dari titik itu, dan kita ketemu lagi di 20 jam sebelum tenggat. Countdown-nya jelas. Saya akan mulai menyusun format verifikasi malam ini juga, biar saat ketemu kita tinggal cek bareng. Satu hal terakhir: kalau di tengah jalan Rian ternyata belum bisa lanjut sesuai waktu, kita sepakati sekarang bahwa saya kabari kamu lebih awal, bukan menunggu sampai kritis."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
-## Hasil tujuan dan perubahan SWOT/ASK
-
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+## D.1 Hasil tujuan dan perubahan SWOT/ASK
 
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Elsa khawatir pembagian tugas tidak adil dan membebani sendirian. | Beban teratasi lewat redistribusi tugas, format verifikasi, dan kejelasan peran. | U004, U011, U015 | Laporan diri & transkrip simulasi. |
+| Attitude | Elsa ragu-ragu menyampaikan keberatan karena takut dinilai menghindar. | Lebih terbuka dan kooperatif setelah concern diakui. | U003, A1003 | Perubahan sikap teramati dalam dialog. |
+| Knowledge | Batas tanggung jawab dan format verifikasi belum jelas. | Memahami pembagian fungsi/proses dan kriteria pengecekan akhir. | U009, U014 | Pemahaman operasional verbal. |
+| Skill/kesiapan | Koordinasi kelompok terhambat data Rian yang belum masuk. | Kesiapan menyusun format verifikasi dan pembaruan tabel jadwal bersama. | U012, U015 | Demonstrasi skrip simulasi. |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## D.2 Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U001 - U003 | Mengakui concern Elsa | Menanyakan kabar dan menggali kendala | Elsa terbuka menjelaskan beban kerjanya | A: Rasa aman meningkat | Mendengar aktif tanpa menekan |
+| U006 - U008 | Usulan standar verifikasi | Mengusulkan standar IEEE 1149.1| Elsa meminta klarifikasi karena tidak relevan | K: Koreksi konsep teknis | Beralih ke format interoperabilitas data |
+| U011 - U015 | Redistribusi dan tenggat | Mengambil alih tugas Rian & countdown | Elsa menyepakati kriteria pengecekan akhir | S: Kejelasan peran & tenggat terwujud | Mengatur pertemuan 20 jam jelang deadline |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
-
-## Pengaruh pesan personal dan kualitas relasi
+## D.3 Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U003, U014 | Pengakuan concern (U003) & pemberian ruang usul pemotongan tugas (U014) | Elsa membuka hambatan (A1003) dan mengusulkan kriteria verifikasi (A1014) | Sedang-tinggi (rasa aman dan kepercayaan terjaga dengan baik) | Mendorong kolaborasi aktif dan menurunkan kecemasan Elsa |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
-
-## Uji ulang dan pembelajaran
+## D.4 Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
+| Kendala baru atau peristiwa sejenis | Rian baru bisa mulai verifikasi malam berikutnya karena ada acara keluarga. |
+| Respons awal dibanding uji ulang | Mengambil alih sebagian tugas Rian dan mengatur pemotongan logis serta countdown 48 jam. |
+| Revisi rencana/dukungan | Menyepakati kriteria verifikasi tertulis dan pertemuan evaluasi 20 jam jelang tenggat. |
+| Indikator perbaikan | Tabel jadwal diperbarui dan komitmen penyerahan duplikat data malam hari. |
+| Transfer dan keterbatasan | Efektif dalam simulasi teks; dinamika kelompok nyata memerlukan disiplin pemantauan berkala. |
 
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
-
-## Penilaian enam dimensi
+## D.5 Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | BT | U004, U015 | Tujuan membantu Elsa dan menyepakati tanggung jawab 48 jam tercapai. |
+| Persepsi dan validasi profil/status | BT | U003, U005 | Membaca kekhawatiran Elsa dan menawarkan *back-up* tim dengan baik. |
+| Pemilihan dan urutan repertoar | BT | U006, U014 | Urutan dialog logis; koreksi dilakukan saat usulan IEEE kurang relevan. |
+| Eksekusi jelas, peduli dan konsisten | BT | U011, U015 | Pesan konkret, tidak menekan, serta menyediakan dukungan redistribusi tugas. |
+| Evaluasi dan adaptasi | BT | U008, U013 | Mampu mengoreksi arah setelah usulan keliru dan beradaptasi dengan kendala Rian. |
+| Refleksi dan lesson learned | BT | Bagian D.1 - D.3 | Refleksi substantif mengaitkan pengakuan concern dengan keterbukaan target. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** Belum dihitung (Status BT dipertahankan untuk moderasi dosen)[cite: 36].
 
-## Refleksi dan lesson learned mahasiswa
+## D.6 Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya mengira Elsa hanya menolak bekerja, namun terungkap bahwa ia terbebani oleh koordinasi data yang macet dan takut dianggap menghindar.
+- **Stimulus efektif/tidak efektif:** Pengakuan concern (U003) dan pemberian ruang usul (U014) sangat efektif; sebaliknya, usulan standar IEEE yang tidak relevan (U007) sempat memicu kebingungan.
+- **Pertumbuhan PASK/ASK diri:** Peningkatan keterampilan fasilitasi kelompok dalam merumuskan kriteria verifikasi dan pembagian tugas yang adil.
+- **Relasi:** Validasi beban kerja rekan memperkuat rasa aman dan kepercayaan dalam tim.
+- **Preferensi, peran, budaya:** Menjaga komunikasi suportif khas kerja kelompok akademik di ITB.
+- **Pelajaran untuk situasi berikutnya:** Selalu pastikan kejelasan kriteria verifikasi dan format data bersama sejak dini agar tidak ada anggota tim yang merasa menanggung beban sendirian.
 
-## Tindak lanjut dan batas bukti
+## D.7 Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Penyerahan duplikat data mentah | Rian & Elsa | Malam hari (sesi simulasi) | Repositori/File bersama | Data diterima Elsa untuk diproses | Rencana |
+| Penyusunan format verifikasi | Elsa | Malam hari (sesi simulasi) | Daftar fungsi & format | Format verifikasi tersusun | Rencana |
+| Pertemuan evaluasi akhir (push terakhir) | Tim (Putu, Elsa, Rian) | 20 jam jelang tenggat | Countdown 48 jam | Pengecekan akhir sistem terintegrasi | Rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+**Batas bukti:** Transkrip berbasis teks tanpa rekaman prosodi; profil MBTI tokoh bersifat fiktif; kategori rasa aman merupakan catatan simulator. Pengiriman berkas dilakukan oleh mahasiswa melalui portal.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Dikonfirmasi melalui penyelesaian rangkaian giliran simulasi hingga U015.
 
 {{< include "../../includes/uts-penilaian.md" >}}
