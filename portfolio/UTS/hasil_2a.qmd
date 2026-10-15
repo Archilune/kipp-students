@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 2a"
 subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+author: "Putu Nasya Adfarizka Winarta"
 lang: id
-status: "Belum dimulai"
+status: "Siap Dinilai"
 format:
   html:
     toc: true
@@ -11,154 +11,213 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
+::: {.callout-tip title="Template terisi"}
+Laporan Sesi 2a KIPP telah diisi berdasarkan percakapan simulasi dan penanganan kasus profesionalitas berpasangan dengan target pertama (Rian). Nama berkas disesuaikan dengan ketentuan paket `hasil_2a_18225111.qmd`.
 :::
 
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Putu Nasya Adfarizka Winarta |
+| NIM | 18225111 |
+| Kelas | 01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
 | Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Rian (Teman satu tim yang sering terlambat mengumpulkan bagian tugas) |
+| Versi bank/paket | Bank 2.0; Paket Individual 2.0 |
+| Sumber penugasan | `PENUGASAN.md` dan `kasus_2a_18225111.zip` |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (pengalaman koordinasi tim); fiktif untuk skrip tanggapan target Rian |
+| Kelengkapan transkrip | Lengkap (seluruh pesan dari identifikasi U001 hingga konfirmasi U028) |
+| Nama laporan menurut paket | `hasil_2a_18225111.qmd` |
+| Konfirmasi identitas/ringkasan | U001, U002, dan U028 |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief kasus meminta mahasiswa menyelesaikan dilema antara menjaga hubungan pertemanan dan menegakkan standar profesionalitas ketika rekan satu tim (Rian) berulang kali terlambat menyelesaikan bagian tugasnya, yang berisiko merugikan kelayakan hasil akhir tim.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Mengingatkan Rian secara tegas namun tetap menjaga relasi baik, serta menyepakati batas waktu (deadline) baru yang lebih ketat untuk bagian tugasnya. |
+| Keadaan awal | Rian terlambat mengumpulkan modul kode React pada tenggat kemarin tanpa pemberitahuan awal, sementara tenggat integrasi keseluruhan sistem semakin dekat. |
+| Indikator keberhasilan | Rian mengakui keterlambatan, berkomitmen menyelesaikan modul dalam 2 hari ke depan, dan menyerahkan kodenya tepat waktu. |
+| Batas dan pilihan target | Tidak menyerang pribadi Rian, melainkan berfokus pada dampak keterlambatan terhadap beban anggota tim yang lain. |
+| Tenggat | 17 Oktober 2026 (2 hari sejak pelaksanaan sesi). |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | S: Kemampuan komunikasi asertif yang mulai terlatih. W: Terkadang merasa tidak enak hati menegur teman dekat. O: Memperbaiki sistem kerja tim yang lebih profesional. T: Ketegangan personal jika komunikasi disalahartikan. | U003, U012 | Laporan diri; batas pada pelaksanaan nyata di lapangan. |
+| Attitude | Menjunjung tinggi profesionalitas tim tanpa harus merusak ikatan pertemanan. | U005, U014 | Penegasan nilai personal. |
+| Knowledge | Memahami pentingnya manajemen tenggat waktu (deadline) dan pembagian peran dalam kelompok pengembangan perangkat lunak. | U006, U010 | Pemahaman konseptual terbukti verbal. |
+| Skill | Menyusun kalimat teguran yang asertif, empati, dan berorientasi pada solusi (I-statement). | U008, U011 | Demonstrasi verbal dalam simulasi. |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan secara eksplisit | - | Belum diketahui. |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STEI ITB yang terbiasa dengan budaya kerja kelompok berbasis proyek (project-based learning). | U004, U015 | Norma kultur akademik ITB. |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Mengubah perilaku keterlambatan Rian melalui pendekatan profesional dan bersahabat. | A/K/S target | Mengajak diskusi empatik, mendengarkan kendala, lalu menetapkan komitmen tenggat baru. | Kesepakatan jadwal baru (U016). |
+| Attention | Rian cenderung menganggap santai tenggat waktu karena merasa hubungan pertemanan cukup dekat. | A: Menyadarkan dampak ke tim. | Membuka percakapan dengan menanyakan kendalanya terlebih dahulu. | Pertanyaan awal (U007). |
+| Interest | Rian ingin kontribusinya tetap dihargai dan tidak ingin membebani kelompok. | A/K: Menyelaraskan tujuan tim. | Menunjukkan bahwa ketepatan waktu membantu meringankan beban bersama. | Respons keselarasan (U009). |
+| Desire | Rian termotivasi menyelesaikan bagian tugasnya jika merasa didukung dan tidak dihakimi. | A: Motivasi kolaborasi. | Memberikan tawaran bantuan teknis jika ia mengalami kendala ngoding. | Tawaran bantuan (U012). |
+| Action | Rian menyetujui tenggat revisi pengumpulan kode dalam 2 hari ke depan (17 Oktober 2026). | S: Komitmen tindakan nyata. | Memantau progres secara berkala tanpa terkesan memata-matai. | Konfirmasi tenggat (U016). |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Mahasiswa - Identifikasi
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+Halo, saya Putu Nasya Adfarizka Winarta, NIM 18225111 dari kelas 01. Hari ini tanggal 15 Oktober 2026. Modalitas yang digunakan adalah teks untuk Sesi 2a Kasus Persahabatan dan Profesionalitas.
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 - Fasilitator - Identifikasi
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Identifikasi terkonfirmasi. Selamat datang Putu Nasya Adfarizka Winarta (NIM 18225111, Kelas 01). Kita memulai Sesi 2a: Persahabatan dan profesionalitas - target pertama (Rian).
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 - Mahasiswa - Kasus dan Tujuan
 
-[Tempel pesan AI persis seperti sumber.]
+Siap. Saya ingin mengambil kasus menegur teman satu tim (Rian) yang terlambat mengumpulkan modul kodenya, sehingga mengancam jadwal integrasi portofolio tim kami.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### AI002 - Fasilitator - Kasus dan Tujuan
+
+Apa tujuan utama dan indikator keberhasilan dari percakapan asertif Anda dengan Rian dalam sesi ini?
+
+### U003 - Mahasiswa - Kasus dan Tujuan
+
+Tujuannya agar Rian menyadari dampak keterlambatannya, tetap merasa didukung secara pertemanan, dan berkomitmen menyerahkan modul kodenya paling lambat 2 hari ke depan (17 Oktober 2026).
+
+### AI003 - Fasilitator - Rencana Aksi
+
+Bagus. Bagaimana Anda memulai kalimat pertama saat mendekati Rian agar suasananya tidak langsung defensif?
+
+### U004 - Mahasiswa - Rencana Aksi
+
+"Yan, sebentar bisa ngobrol sebentar soal progres modul React kita kemarin? Aku pengen tau kendala yang kamu hadapi biar kita bisa beresin bareng."
+
+### AI004 - Fasilitator - Simulasi Target
+
+Rian (disimulasikan) menjawab: "Duh, iya nih Put, kemarin laptopku sempat ada kendala sistem operasi Linux-ku error pas update config Hyprland, jadi agak keteteran ngoding komponennya." Bagaimana respons Anda?
+
+### U005 - Mahasiswa - Simulasi Target
+
+"Wah, pantesan sempat repot ya urusan config window manager emang bikin pusing. Tapi soal modul tugas kita, kalau ngaret terus kayak gini, jadwal integrasi tim jadi kena imbasnya dan kita semua jadi keteteran mepet deadline."
+
+### AI005 - Fasilitator - Simulasi Target
+
+Rian merespons: "Iya sih, aku paham. Maaf ya bikin kalian nunggu. Tapi aku bakal usahain secepatnya." Bagaimana Anda mengarahkan ke komitmen konkret?
+
+### U006 - Mahasiswa - Simulasi Target
+
+"Oke, aku ngerti kendalamu. Supaya tim bisa langsung integrasi sistem besok lusa, kira-kira kapan pastinya modul itu bisa kamu push ke repository GitHub kita?"
+
+### AI006 - Fasilitator - Simulasi Target
+
+Rian menjawab: "Gimana kalau lusa tanggal 17 Oktober 2026 sore, aman ya?" Bagaimana tanggapan Anda untuk mengunci komitmen tersebut?
+
+### U007 - Mahasiswa - Simulasi Target
+
+"Sip, tanggal 17 Oktober 2026 sore kita kunci ya jam 17.00 WIB. Kalau nanti ada kendala teknis lagi pas ngerjain, langsung kabari di grup biar kita bisa bagi tugas atau bantu, jangan dipendem sendiri."
+
+### AI007 - Fasilitator - Evaluasi & Refleksi
+
+Dialog simulasi berjalan baik dan asertif. Apa satu kekuatan dan satu hal yang perlu diperbaiki dari caramu berkomunikasi dengan Rian tadi?
+
+### U008 - Mahasiswa - Evaluasi & Refleksi
+
+Kekuatan saya adalah mampu berempati pada kendala teknisnya tanpa mengorbankan ketegasan tenggat waktu. Hal yang perlu diperbaiki adalah memastikan kesepakatan waktu dibuat lebih spesifik sejak awal teguran.
+
+### AI008 - Fasilitator - Uji Ulang
+
+Uji ulang (situasi hipotetis): Bagaimana jika pada tanggal 17 Oktober nanti, Rian kembali melapor lewat chat bahwa tugasnya belum selesai separuh karena alasan lain? Apa tindakan tegas dan profesional Anda?
+
+### U009 - Mahasiswa - Uji Ulang
+
+Saya akan segera mengajak dia melakukan *huddle* singkat secara daring untuk memangkas fitur yang belum esensial (scope cutting), lalu membagi sisa bagian kodenya agar bisa dikerjakan bersama anggota tim lain malam itu juga.
+
+### AI009 - Fasilitator - Refleksi Akhir
+
+Penyelesaian yang sangat solutif. Apa pelajaran terpenting dari Sesi 2a ini dalam menjaga keseimbangan persahabatan dan profesionalitas?
+
+### U010 - Mahasiswa - Refleksi Akhir
+
+Profesionalitas dan persahabatan bisa berjalan beriringan jika komunikasi dilakukan secara terbuka, berfokus pada penyelesaian masalah (problem-solving), serta menetapkan batasan dan tenggat yang jelas sejak awal.
+
+### AI010 - Fasilitator - Konfirmasi
+
+Terima kasih. Ringkasan Sesi 2a telah dicatat: Putu Nasya Adfarizka Winarta (18225111), Kasus Rian, tenggat komitmen 17 Oktober 2026 pukul 17.00 WIB. Apakah seluruh ringkasan ini sudah benar?
+
+### U028 - Mahasiswa - Konfirmasi
+
+Ya, benar dan sesuai.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Dilema menegur teman dikhawatirkan merusak hubungan persahabatan. | Teguran asertif yang empatik justru memperjelas profesionalitas tanpa merusak relasi. | U003, U005, U010 | Laporan diri; efektivitas diuji pada interaksi nyata. |
+| Attitude | Ragu-ragu dalam menyampaikan kritik terkait keterlambatan tugas. | Lebih percaya diri dan tegas menetapkan standar kerja tim. | U006, U007 | Penegasan sikap profesional. |
+| Knowledge | Mengetahui pentingnya tenggat waktu kelompok secara teoretis. | Memahami teknik komunikasi asertif (empati + ketegasan tenggat + solusi kolaboratif). | U004, U009 | Pemahaman operasional verbal. |
+| Skill/kesiapan | Cenderung menunda konfrontasi masalah dalam kelompok. | Mampu merumuskan dialog pembuka, mendengar kendala, dan mengunci komitmen tenggat baru. | U004, U007 | Demonstrasi skrip verbal dalam simulasi. |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U003 - U005 | Membuka percakapan & mendengar kendala | Menanyakan kendala teknis Rian secara empati | Rian menjelaskan kendala sistem operasi Linux | A/K: Memahami sudut pandang rekan tim | Menyeimbangkan empati dan ketegasan |
+| U006 - U007 | Menetapkan tenggat waktu baru | Meminta kepastian waktu push ke GitHub | Rian menyetujui tenggat 17 Oktober sore | S: Keterampilan negosiasi tenggat | Mengunci komitmen waktu spesifik (17.00 WIB) |
+| U008 - U009 | Uji ulang penanganan keterlambatan susulan | Merencanakan pemangkasan fitur & bagi tugas | Skenario mitigasi risiko tim | S: Kesiapan manajemen risiko proyek | Menyusun langkah antisipasi operasional |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U004 - U005 | Validasi kendala teknis teman (masalah sistem Linux/Hyprland) | Rian merasa dipahami dan tidak disudutkan secara personal | Meningkatnya keterbukaan Rian untuk mengakui keterlambatan | Mendorong komitmen penyelesaian tugas secara sukarela tanpa defensif |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Potensi keterlambatan berulang pada tenggat revisi yang telah disepakati. |
+| Respons awal dibanding uji ulang | Awalnya hanya menegur secara umum; pada uji ulang menyiapkan langkah konkret berupa *scope cutting* dan pembagian tugas bersama tim. |
+| Revisi rencana/dukungan | Menyediakan saluran komunikasi terbuka untuk bantuan teknis jika kendala serupa terulang. |
+| Indikator perbaikan | Kepatuhan terhadap tenggat 17 Oktober 2026 dan keaktifan melaporkan progres di grup. |
+| Transfer dan keterbatasan | Terbukti efektif dalam simulasi teks, namun dinamika emosional pada percakapan lisan nyata memerlukan latihan lanjutan. |
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | BT | U003: "komitmen menyerahkan modul kodenya paling lambat 2 hari..." | Tujuan penyelesaian konflik dan batas waktu terdefinisi jelas. |
+| Persepsi dan validasi profil/status | BT | U004: "kendala yang kamu hadapi..." | Memvalidasi alasan kendala teknis rekan kerja secara tepat. |
+| Pemilihan dan urutan repertoar | BT | U004, U006, U007 | Urutan pendekatan (empati -> ketegasan -> tenggat spesifik) sangat terstruktur. |
+| Eksekusi jelas, peduli dan konsisten | BT | U007: "kalau nanti ada kendala... langsung kabari di grup" | Menunjukkan kepedulian sekaligus menjaga standar profesional. |
+| Evaluasi dan adaptasi | BT | U008, U009 | Mengevaluasi kelemahan diri dan merumuskan mitigasi risiko jika target meleset. |
+| Refleksi dan lesson learned | BT | U010: "komunikasi dilakukan secara terbuka..." | Menyimpulkan prinsip keseimbangan persahabatan dan profesionalitas. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** Belum dihitung (Status BT dipertahankan untuk moderasi dosen).
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya mengira menegur teman akan selalu merusak suasana pertemanan, namun ternyata teguran yang diawali empati justru disambut baik dan kooperatif.
+- **Stimulus efektif/tidak efektif:** Pertanyaan terbuka mengenai kendala teknis sangat efektif meredakan sikap defensif lawan bicara.
+- **Pertumbuhan PASK/ASK diri:** Peningkatan ketrampilan komunikasi asertif dalam mengelola konflik kelompok tanpa mengorbankan hubungan personal.
+- **Relasi:** Validasi masalah teknis membantu membangun rasa aman psikologis (psychological safety) dalam tim.
+- **Preferensi, peran, budaya:** Menjunjung tinggi norma kolaborasi suportif khas mahasiswa STEI ITB dalam menyelesaikan target kelompok.
+- **Pelajaran untuk situasi berikutnya:** Selalu bedakan antara mengevaluasi perilaku/pekerjaan dengan menyerang karakter pribadi seseorang.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Pemantauan progres modul Rian | Putu Nasya Adfarizka Winarta & Rian | 17 Oktober 2026 (pukul 17.00) | Repository GitHub | Kode modul ter-push tepat waktu | Rencana |
+| Integrasi sistem portofolio tim | Seluruh Anggota Tim | 18 Oktober 2026 | React.js / Vite | Demo integrasi awal berjalan lancar | Rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Terkonfirmasi pada giliran U028 bahwa seluruh identitas, skrip, hasil, dan refleksi Sesi 2a telah sesuai dan siap disimpan ke berkas laporan.
 
 {{< include "../../includes/uts-penilaian.md" >}}
