@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 1"
 subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+author: "Putu Nasya Adfarizka Winarta"
 lang: id
-status: "Belum dimulai"
+status: "Siap Dinilai"
 format:
   html:
     toc: true
@@ -19,10 +19,10 @@ Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Putu Nasya Adfarizka Winarta |
+| NIM | 18225111 |
+| Kelas | 01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
 | Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
 | Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
 | Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
