@@ -29,11 +29,11 @@ Portfolio Minggu 8 telah diisi lengkap dengan tautan berkas makalah pra-UTS sert
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
 | Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap Dinilai | Lengkap (Kajian MBTI, komunikasi efektif, PASK, dan SWOT-like) |
-| 1 | [hasil_1_18225111.qmd](UTS/hasil_1_18225111.qmd) | Diri mahasiswa (Target utama); Dimas (Pembanding) | Siap Dinilai | Lengkap (Tujuan prototipe portofolio & refleksi fokus) |
-| 2a | [hasil_2a_18225111.qmd](UTS/hasil_2a_18225111.qmd) | Rian (Teman satu tim) | Siap Dinilai | Lengkap (Profesionalitas & penanganan tugas terlambat) |
-| 2b | [hasil_2b_18225111.qmd](UTS/hasil_2b_18225111.qmd) | Elsa, ID K2-05 | Siap Dinilai | Lengkap (Dilema tugas kelompok 48 jam & redistribusi beban) |
-| 3a | [hasil_3a_18225111.qmd](UTS/hasil_3a_18225111.qmd) | Pengelola usaha / Customer (K3-01) | Siap Dinilai | Lengkap (Penawaran TI/AI & kesepakatan demo fiktif) |
-| 3b | [hasil_3b_18225111.qmd](UTS/hasil_3b_18225111.qmd) | Budi (K3-02), pengelola usaha / customer | Siap Dinilai | Lengkap (Penawaran lanjutan, manajemen risiko, & penghormatan penundaan) |
+| 1 | [hasil_1_18225111.qmd](UTS/hasil_1.qmd) | Diri mahasiswa (Target utama); Dimas (Pembanding) | Siap Dinilai | Lengkap (Tujuan prototipe portofolio & refleksi fokus) |
+| 2a | [hasil_2a_18225111.qmd](UTS/hasil_2a.qmd) | Rian (Teman satu tim) | Siap Dinilai | Lengkap (Profesionalitas & penanganan tugas terlambat) |
+| 2b | [hasil_2b_18225111.qmd](UTS/hasil_2b.qmd) | Elsa, ID K2-05 | Siap Dinilai | Lengkap (Dilema tugas kelompok 48 jam & redistribusi beban) |
+| 3a | [hasil_3a_18225111.qmd](UTS/hasil_3a.qmd) | Pengelola usaha / Customer (K3-01) | Siap Dinilai | Lengkap (Penawaran TI/AI & kesepakatan demo fiktif) |
+| 3b | [hasil_3b_18225111.qmd](UTS/hasil_3b.qmd) | Budi (K3-02), pengelola usaha / customer | Siap Dinilai | Lengkap (Penawaran lanjutan, manajemen risiko, & penghormatan penundaan) |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
