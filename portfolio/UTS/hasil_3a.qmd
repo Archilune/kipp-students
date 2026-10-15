@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3a"
 subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+author: "Putu Nasya Adfarizka Winarta"
 lang: id
-status: "Belum dimulai"
+status: "Siap Dinilai"
 format:
   html:
     toc: true
@@ -11,154 +11,180 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
+::: {.callout-tip title="Template terisi"}
+Laporan Sesi 3a KIPP telah diisi berdasarkan percakapan simulasi penawaran solusi TI dan AI kepada customer. Nama berkas disesuaikan dengan ketentuan paket `hasil_3a_18225111.qmd`.
 :::
 
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Putu Nasya Adfarizka Winarta |
+| NIM | 18225111 |
+| Kelas | 01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
 | Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Pengelola usaha / Customer (K3-01) |
+| Versi bank/paket | Bank 2.0; Paket Individual 2.0 |
+| Sumber penugasan | `PENUGASAN.md` dan `kasus_3a_18225111.zip` |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (studi kasus penawaran solusi); fiktif untuk perilaku tokoh customer |
+| Kelengkapan transkrip | Lengkap (seluruh pesan dari identifikasi hingga konfirmasi akhir) |
+| Nama laporan menurut paket | `hasil_3a_18225111.qmd` |
+| Konfirmasi identitas/ringkasan | U001, U007, dan konfirmasi akhir |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief kasus menetapkan bahwa pengelola usaha (customer) menghadapi masalah pesan pelanggan berulang dan pesanan tercecer dengan tenaga terbatas, tetapi belum yakin memerlukan solusi TI atau AI. Mahasiswa perlu menawarkan solusi secara persuasif tanpa paksaan.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Mendapatkan kesepakatan kesempatan uji coba produk (demo/simulasi) secara konkret tanpa paksaan pembelian. |
+| Keadaan awal | Customer kewalahan menangani pesan pelanggan berulang, memiliki staf terbatas, dan ragu terhadap teknologi AI yang dianggap rumit. |
+| Indikator keberhasilan | Pihak customer menyepakati jadwal waktu, bentuk uji coba/demo pendampingan tanpa risiko operasional, dan keterlibatan stafnya secara sukarela. |
+| Batas dan pilihan target | Tidak memaksa adopsi teknologi secara instan; menghormati kekhawatiran staf operasional customer. |
+| Tenggat | Sesuai jadwal demo yang disepakati (hari Jumat pukul 14.00). |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | S: Pemahaman teknis arsitektur agen AI yang kuat. W: Belum mengenali kebiasaan detail staf customer. O: Meningkatkan efisiensi operasional customer. T: Resistensi dan kecemasan staf lapangan. | U002, U004 | Laporan diri; batas pada pelaksanaan uji coba di lapangan. |
+| Attitude | Bertekad mengedukasi dan membantu efisiensi customer tanpa mendiskreditkan kapabilitas mereka. | U005 | Penegasan sikap. |
+| Knowledge | Memahami arsitektur agen AI, mekanisme training set imitasi, serta analogi beban kerja kognitif. | U003, U006 | Pemahaman operasional terbukti verbal. |
+| Skill | Mampu merancang tahapan transisi teknis, menyusun demo fiktif, serta membingkai ulang masalah teknis menjadi analogi sederhana. | U004, U006 | Demonstrasi interaksi. |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan secara eksplisit | - | Belum diketahui. |
+| Peran, karakter, kultur/ko-kultur | Konsultan/penyedia solusi TI-AI yang persuasif, berorientasi kemitraan, dan menghargai peran staf lapangan. | U001, U003 | Norma profesional. |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membuka ruang penerimaan terhadap solusi TI/AI untuk mengatasi kapasitas layanan. | Edukasi A (menurunkan skeptisisme) | Membuka obrolan dengan validasi beban kerja tanpa menyalahkan. | Customer mengakui beban kerja dan bersedia mendengarkan. |
+| Attention | Sadar akan masalah kewalahan pesan pelanggan namun belum melihat relevansi AI. | Edukasi K (relevansi masalah vs solusi) | Mengonfirmasi situasi beban operasional ("bisnis sedang maju sehingga kewalahan"). | Respons reflektif mengenai kendala nyata staf. |
+| Interest | Skeptis terhadap janji muluk teknologi dan biaya tinggi. | Edukasi K (prinsip kerja AI pendamping) | Menawarkan konsep agen AI yang meniru staf, bukan menggantikan staf. | Pertanyaan mengenai bentuk kerja harian dan mekanisme integrasi. |
+| Desire | Khawatir staf gaptek dan operasional terganggu/salah prosedur. | Edukasi A & S (rasa aman & kesiapan awal) | Menawarkan tahapan bertahap, demo fiktif tanpa risiko, dan pendampingan. | Customer meminta kepastian demo dan waktu persiapan staf. |
+| Action | Ragu melangkah karena takut risiko data hilang atau beban belajar tinggi. | Edukasi S (langkah pertama nyata) | Menyepakati sesi demo 45 menit pada hari yang lengang (Jumat). | Penetapan jadwal konkret (Jumat jam 14.00) dan kesediaan staf hadir. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Mahasiswa - Pembukaan
+"Bisnis Anda sedang maju sehingga kewalahan menangani pelanggan. Apa benar begitu?"
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Customer - Respons Awal
+"Terima kasih, tetapi saya belum yakin bisa melakukannya."
 
-### U001 - Mahasiswa - [Tahap]
+### U002 - Mahasiswa - Penawaran Kapasitas
+"Kelihatannya Anda perlu meningkatkan kapasitas pelayanan pelanggan tiga kali lipat tanpa membebani staf apalagi kenaikan *cost*."
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Customer - Keraguan & Ketakutan Staf
+"Tiga kali lipat terdengar muluk bagi saya saat ini. Yang membuat saya ragu bukan cuma soal biaya, tetapi saya takut staf saya nanti malah bingung dan tidak sanggup mengoperasikannya jika sistemnya rumit. Bagaimana sebenarnya cara kerja hal ini dalam keseharian staf kami?"
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U003 - Mahasiswa - Konsep Agen AI
+"Itu dulu, Pak. Sekarang kita menerapkan teknologi AI yang bisa kita latih bersama staf Anda. Hasilnya staf Anda bekerja dengan cara biasa tapi kapasitasnya meningkat, seolah akan ada tiga agen per satu staf."
 
-[Tempel pesan AI persis seperti sumber.]
+### AI003 - Customer - Permintaan Kejelasan Latihan
+"Konsep didampingi asisten memang terdengar membantu, tapi jujur pemahaman saya soal batas kemampuan AI ini masih sangat minim. Selama ini staf saya terbiasa melayani pesan lewat WhatsApp secara manual, satu per satu, sehingga kalau pesanan menumpuk sering ada yang terlewat. Kalau kami coba latih bersama seperti yang Anda maksud, bentuk latihannya seperti apa dan seberapa jauh AI ini benar-benar bisa menangani pertanyaan berulang tanpa membuat kesalahan fatal pada pesanan pelanggan?"
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U004 - Mahasiswa - Roadmap 3 Tahap
+"Saya usul ada tiga tahap. Pertama kita pasang sistem PC berisi aplikasi agen AI di samping staf Anda, cukup satu hari. Lalu selama seminggu staf kami akan menangkap *training set* dari rekaman aktivitas staf Anda, dan melatih *agent AI* untuk meniru staf Anda. Lalu minggu berikutnya staf Anda akan mendampingi AI *agent* untuk validasi apa yang dilakukan AI *agent*. Minggu terakhir kita jalankan tiga agen per mesin untuk pelipatan 3x."
+
+### AI004 - Customer - Permintaan Demo Awal
+"Rencana tahapan itu memberi gambaran yang lebih teratur, dan melegakan mendengar staf Anda yang akan menangani proses pelatihannya lebih dulu. Namun, staf saya sangat berhati-hati dan mudah cemas kalau berhadapan dengan sistem baru. Mereka terbiasa dengan langkah-langkah dasar saja. Apakah sebelum sistem itu dipasang, ada sesi demo langsung yang sangat sederhana dan pelatihan kecil untuk mereka, supaya mereka tidak merasa langsung 'diawasi' atau kaget saat sistemnya mulai merekam?"
+
+### U005 - Mahasiswa - Demo Fiktif & Video
+"Siap, kita punya demo kecil untuk proses baku tapi fiktif. Kita juga punya video singkat contoh transisi di pelanggan kami sebelumnya. Itu kantor pemerintah jadi kita tidak perlu kuatir izin tayang."
+
+### AI005 - Customer - Pertanyaan Jadwal Demo
+"Melihat contoh demo fiktif dan video transisi itu rasanya akan sangat membantu staf saya agar ada gambaran nyata dan tidak cemas. Kalau begitu, apa langkah pertama yang paling konkret yang perlu kita jadwalkan, kapan sebaiknya sesi demo pengenalan singkat itu diadakan bersama staf saya, dan apa saja yang perlu kami siapkan dari pihak kami agar demo tersebut bisa berjalan lancar?"
+
+### U006 - Mahasiswa - Penentuan Jadwal Jumat
+"Bisakah dua hari lagi? Kebetulan itu hari Jumat jadi staf Anda tidak sesibuk biasanya, dan kami bisa menyiapkan demo dengan baik. Video link sudah saya kirim ke Bapak. Ada di web kami."
+
+### AI006 - Customer - Konfirmasi Persetujuan Demo
+"Baik, hari Jumat lusa jam 14.00 setelah jam istirahat kelihatannya waktu yang tepat, suasana toko biasanya memang lebih tenang. Saya dan dua staf operasional saya akan meluangkan waktu sekitar 45 menit untuk melihat demo dan video tersebut bersama Anda. Saya pegang komitmen ini untuk sesi pengenalan dulu tanpa komitmen pembelian apa pun."
+
+### U007 - Mahasiswa - Evaluasi Sementara
+"1) Kita tidak menyalahkan mereka atas masalah yang mereka alami. Kita membahasakan: sukses melampaui kapasitas. Kita mengerti bahwa saat ini mereka tidak bisa menaikkan kapasitas 3x lipat dengan biaya 3x lipat. Kita menawarkan 3x lipat kapasitas dengan 1x biaya. Kita menjelaskan juga ada teknologi *agent AI* yang meniru staf jadi bukan staf yang berubah tapi agen yang belajar dari staf. 2) Saat dia setuju demo dan video akan meredakan kegamangan para staf. 3) Cukup tepat."
+
+### AI007 - Customer - Uji Ulang (Kekhawatiran Staf Senior)
+"Selamat pagi, Pak Putu. Maaf mengabari mendadak sebelum pertemuan kita besok Jumat. Semalam saya sempat bicara lagi dengan salah satu staf senior saya yang biasa memegang pesanan. Begitu tahu ada demo sistem baru, dia langsung gelisah dan ragu. Dia bilang dia gaptek, takut salah pencet lalu data pelanggan hilang, apalagi kalau harus belajar sistem AI yang dia anggap rumit. Melihat dia begitu cemas, saya jadi kepikiran apakah staf saya benar-benar sanggup mengikutinya. Menurut Anda, bagaimana cara kita meyakinkan dia saat sesi besok agar dia tidak merasa terancam atau terbebani dengan pelatihan ini?"
+
+### U008 - Mahasiswa - Solusi Uji Ulang & Analogi Ujian
+"Wah itu kecemasan yang sangat wajar. Dan itu tujuan utama demo simulasi tanpa risiko besok itu. Dalam demo itu kita akan perlihatkan *layout* layar agen persis sama dengan layar staf Bapak dengan tujuan meniru interaksi yang dilakukan staf. Setelah proses belajar lengkap agen akan bekerja paralel dengan staf untuk validasi. Setelah lolos barulah agen bekerja di bawah pengawasan staf. Dengan cara ini produktivitas staf naik tiga kali. Staf kita tinggal *approve* atau pilih alternatif solusi. Bapak ingat saat kuliah dulu ada soal *essay* yang lama dijawab dan ada soal *true-false* atau *multiple choice* yang cepat dijawab? Sistem kita mengubah soal dari *essay* ke *true-false*, *multiple choice*, dan *fill in the blank*. Kalau pegawai pemerintah di proyek kami sebelumnya itu bisa, apalagi tim Bapak."
+
+### AI008 - Customer - Penerimaan & Kepastian Jadwal
+"Penjelasan Bapak barusan sangat menenangkan dan mudah dibayangkan. Analogi soal ujian tadi sangat pas—memang jauh lebih ringan kalau staf saya hanya perlu memeriksa dan memilih daripada harus mengetik semuanya dari nol. Itu pasti bisa mengurangi beban ketakutan salah ketik atau data hilang, karena staf saya tetap memegang kendali persetujuan. Baiklah kalau begitu, kekhawatiran saya jauh berkurang. Saya akan sampaikan ke staf senior saya bahwa demo besok sifatnya simulasi tanpa risiko sama sekali, dan tampilannya tidak akan asing bagi kami. Kita pastikan tetap bertemu besok Jumat jam 14.00 ya, Pak Putu. Terima kasih banyak atas kesabarannya menjelaskan."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Tujuan percakapan tercapai terbatas pada kesepakatan demo dalam simulasi. Customer menyepakati uji coba/demo konkret tanpa paksaan pembelian, dengan alokasi waktu dan kehadiran staf yang jelas.
 
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Merasa belum mampu, takut staf gagal, skeptis terhadap janji kenaikan kapasitas. | Melihat peluang bantuan AI sebagai mitra pendamping, merasa aman dengan demo bertahap tanpa risiko. | AI002 vs AI006, AI008 | Perubahan status simulasi berdasarkan komitmen waktu dan dukungan staf. |
+| Attitude | Ingin berkembang namun takut gagal; protektif terhadap staf. | Terbuka mencoba, merasa dihargai, percaya bahwa kendali tetap pada staf. | U008, AI008 | Pernyataan eksplisit customer bahwa penjelasannya menenangkan. |
+| Knowledge | Gambaran manfaat ada namun prosedur belum dipahami; batas AI kabur. | Memahami mekanisme imitasi agen AI dan analogi perubahan kerja (*essay* ke pilihan ganda). | AI003, AI008 | Pemahaman operasional terkonfirmasi lewat pengulangan analogi oleh tokoh. |
+| Skill | Hanya mampu langkah dasar operasional manual WhatsApp; butuh pendampingan. | Kesiapan mengikuti demo fiktif 45 menit dan memvalidasi sistem secara paralel. | AI006, AI008 | Kesiapan simulasi tokoh. |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| E1 (U002-AI002) | Customer ragu dan takut staf tidak sanggup (Attitude/Skill). | Menawarkan kenaikan kapasitas 3x lipat tanpa kenaikan biaya. | Menolak klaim muluk; menanyakan beban kerja harian staf. | Belum ada perubahan signifikan; defensif wajar. | Mahasiswa menurunkan nada klaim dan menjelaskan konsep asisten. |
+| E2 (U003-AI003) | Customer ingin tahu batas kemampuan dan prosedur AI (Knowledge). | Menjelaskan konsep agen AI yang dilatih bersama meniru staf. | Mengakui konsep menarik tapi minta kejelasan bentuk latihan dan akurasi. | Knowledge mulai terbuka; Attitude melunak. | Mahasiswa mengusulkan rencana tahapan mingguan yang terstruktur. |
+| E3 (U004-AI004) | Customer butuh langkah kecil dan pelatihan dasar (Skill). | Memberikan *roadmap* 3 tahap (rekam, dampingi, gandakan). | Mengapresiasi keteraturan tetapi meminta demo kecil awal agar staf tidak kaget. | Hambatan Skill terartikulasi jelas; butuh rasa aman. | Mahasiswa langsung menyetujui demo fiktif dan video transisi. |
+| E4 (U005-AI006) | Customer siap mengambil keputusan awal jika tanpa risiko (Action). | Menawarkan demo proses baku fiktif dan jadwal hari Jumat saat santai. | Menyetujui sesi 45 menit hari Jumat jam 14.00 bersama dua stafnya. | Action tercapai; Attitude aman; Knowledge terarah. | Kesepakatan tercapai, siap masuk uji ulang. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U008 | Validasi kecemasan staf secara empatik dan analogi soal ujian (*essay* ke pilihan ganda) | Customer merasa sangat tenang dan antusias memastikan kehadiran staf pada demo Jumat | Tinggi (rasa aman psikologis tercapai) | Menurunkan hambatan psikologis staf dan mengukuhkan komitmen demo |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Staf senior panik dan merasa gaptek terhadap sistem AI baru. |
+| Respons awal dibanding uji ulang | Memvalidasi kecemasan, menjelaskan kemiripan antarmuka, serta menggunakan analogi ujian (*essay* ke pilihan ganda). |
+| Revisi rencana/dukungan | Memastikan demo berfokus pada simulasi tanpa risiko dan menegaskan bahwa kontrol penuh tetap di tangan staf. |
+| Indikator perbaikan | Customer menarik kembali keraguannya dan mengonfirmasi jadwal demo hari Jumat. |
+| Transfer dan keterbatasan | Efektif dalam simulasi teks; adopsi nyata di lapangan tetap bergantung pada pelaksanaan teknis saat demo. |
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | BT | U006, AI006 | Kesepakatan demo 45 menit tercapai, namun indikator numerik resmi ditangguhkan. |
+| Persepsi dan validasi profil/status | BT | AI002, AI004 | Membaca keraguan customer dengan baik, namun rubrik numerik ditangguhkan. |
+| Pemilihan dan urutan repertoar | BT | U004, U006 | Urutan penjelasan bertahap dan penawaran demo sudah logis. |
+| Eksekusi jelas, peduli dan konsisten | BT | U008, AI008 | Validasi empati dan analogi disampaikan secara meyakinkan. |
+| Evaluasi dan adaptasi | BT | U007, U008 | Mampu beradaptasi mengatasi kepanikan staf lewat analogi yang tepat. |
+| Refleksi dan lesson learned | BT | Bagian D.1 - D.3 | Refleksi mengaitkan efektivitas analogi dengan penurunan kecemasan customer. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** Belum dihitung (Status BT dipertahankan untuk moderasi dosen).
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Koreksi Dugaan & Persepsi:** Klaim efisiensi pelipatan 3x lipat pada awalnya memicu kecemasan kompleksitas, sehingga perlu diimbangi dengan penjelasan bahwa AI bertindak sebagai asisten pendamping, bukan pengganti.
+
+- **Efektivitas Stimulus:** Analogi soal ujian (*essay* menjadi *multiple choice*) terbukti sangat efektif karena menyentuh pengalaman bersama dan memperjelas fungsi AI sebagai pengurang beban kognitif tanpa mencabut kendali manusia.
+
+- **Pelajaran untuk Praktik Komunikasi:** Selalu akui kekhawatiran (*concern*) lawan bicara sebagai hal yang valid sebelum memberikan solusi teknis, dan pastikan pengguna akhir merasakan kedaulatan kendali atas teknologi baru.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Pelaksanaan sesi demo & video | Putu Nasya & Tim | Jumat, pukul 14.00 | Demo fiktif & tautan video | Kehadiran customer dan dua staf | Rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+**Batas bukti:** Interaksi berbasis simulasi teks; tanggal absolut demo perlu dikonfirmasi ulang pada implementasi nyata; klaim kapasitas 3x merupakan proyeksi penawaran. Pengiriman berkas dilakukan oleh mahasiswa melalui portal.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Dikonfirmasi melalui penyelesaian rangkaian giliran simulasi hingga persetujuan jadwal demo.
 
 {{< include "../../includes/uts-penilaian.md" >}}
