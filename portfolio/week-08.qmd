@@ -1,39 +1,39 @@
-﻿---
+---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Siap Dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Portfolio Terisi"}
+Portfolio Minggu 8 telah diisi lengkap dengan tautan berkas makalah pra-UTS serta lima laporan kasus individual atas nama Putu Nasya Adfarizka Winarta (NIM 18225111).
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Putu Nasya Adfarizka Winarta |
+| NIM | 18225111 |
+| Kelas | 01 |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; Paket Individual 2.0 |
+| Modalitas | Teks |
+| Status pengumpulan | Siap diunggah ke portal akademik |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap Dinilai | Lengkap (Kajian MBTI, komunikasi efektif, PASK, dan SWOT-like) |
+| 1 | [hasil_1_18225111.qmd](UTS/hasil_1_18225111.qmd) | Diri mahasiswa (Target utama); Dimas (Pembanding) | Siap Dinilai | Lengkap (Tujuan prototipe portofolio & refleksi fokus) |
+| 2a | [hasil_2a_18225111.qmd](UTS/hasil_2a_18225111.qmd) | Rian (Teman satu tim) | Siap Dinilai | Lengkap (Profesionalitas & penanganan tugas terlambat) |
+| 2b | [hasil_2b_18225111.qmd](UTS/hasil_2b_18225111.qmd) | Elsa, ID K2-05 | Siap Dinilai | Lengkap (Dilema tugas kelompok 48 jam & redistribusi beban) |
+| 3a | [hasil_3a_18225111.qmd](UTS/hasil_3a_18225111.qmd) | Pengelola usaha / Customer (K3-01) | Siap Dinilai | Lengkap (Penawaran TI/AI & kesepakatan demo fiktif) |
+| 3b | [hasil_3b_18225111.qmd](UTS/hasil_3b_18225111.qmd) | Budi (K3-02), pengelola usaha / customer | Siap Dinilai | Lengkap (Penawaran lanjutan, manajemen risiko, & penghormatan penundaan) |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -48,4 +48,4 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Sesi 3a | 18% | — | — | — | Belum dinilai |
 | Sesi 3b | 18% | — | — | — | Belum dinilai |
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+**Nilai akhir resmi UTS:** Belum dihitung. Bagian nilai dikosongkan untuk menunggu moderasi dan penilaian resmi dari dosen pengampu.
