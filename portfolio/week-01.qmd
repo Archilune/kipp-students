@@ -1,7 +1,7 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
+status: "Siap Dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
@@ -9,14 +9,65 @@ categories: [Fondasi, Person]
 ---
 
 ## Kompetensi target
-
 Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
 
 ## Evidence wajib
-
 - Lima character dari sedikitnya tiga domain kehidupan.
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
+
+
+{{< include ../includes/evidence-template.md >}}
+
+## Lima character
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-Self — Reflective Learner | Diri sendiri saat sedang pusing men-debug kode Java atau mengonfigurasi sistem Linux | Fokus mencari letak error secara objektif, bukan malah menyalahkan diri sendiri | Melacak secara sistematis (“Logika di baris mana yang belum aku cek?”) | Rentan burnout dan emosi; jeda 5–10 menit sebelum lanjut mencari solusi |
+| Business — Rekan Usaha | Teman-teman dalam mengelola operasional distribusi kain | Menyelaraskan ritme kerja tim dan memastikan pembagian tugas berjalan lancar | Negosiasi kooperatif dan penentuan target bersama (“Untuk stok minggu ini, kita bagi tugasnya gimana biar sama-sama enak?”) | Bisa terdengar *bossy* atau memerintah; gunakan kata “kita” alih-alih “kamu” |
+| Community — Inisiator | Teman-teman relawan yang menyumbang catatan untuk Drive Akademik | Mendorong partisipasi pengisian dokumen tanpa membuat kontributor merasa ditagih utang | Suportif dan menawarkan jalan keluar (“Kalau lagi sibuk, drop aja teks mentahnya, nanti dibantu rapiin”) | Kalau terlalu pasif, target Drive tidak tercapai; rutin follow-up dengan nada bertanya, bukan menuntut |
+| Academic — Mahasiswa Bimbingan | Kaprodi atau Dosen Wali terkait rencana studi | Meminta arahan yang spesifik untuk penyusunan jadwal dan prioritas mata kuliah | Formal, mendengarkan aktif, dan mengonfirmasi pemahaman (“Jadi, sebaiknya saya memprioritaskan mata kuliah prasyarat ini dulu ya, Pak?”) | Cenderung pasif hanya mendengarkan; wajib membawa draf rencana kasar sendiri sebelum masuk ruang diskusi |
+| Professional — Calon Tutor | Calon murid (persiapan mengajar di platform tutoring) | Menerjemahkan konsep akademis yang rumit menjadi penjelasan yang mudah dicerna | Menggunakan analogi sehari-hari dan scaffolding (“Sejauh ini, bagian mana yang masih membingungkan?”) | Terjebak pada penjelasan teoretis satu arah; berhenti tiap 10 menit untuk mengecek pemahaman lawan bicara |
+
+## Episode yang dianalisis
+
+**Konteks Kejadian:** Seorang teman relawan berjanji untuk menyumbang catatan mata kuliah Jaringan Komputer ke Drive Akademik, tetapi sudah lewat tiga hari dari kesepakatan. *Story* atau asumsi awalku adalah: “Dia sudah lepas tanggung jawab.” Padahal, fakta objektifnya baru satu: File belum masuk ke folder yang disepakati.
+
+**Tujuan Percakapan:** Mendapatkan kejelasan status dokumen dan membuat rencana baru yang realistis, tanpa menyinggung perasaannya yang bisa berujung pada mundurnya ia dari inisiatif ini.
+
+> **Aku:** “Eh, sebelum foldernya kita buka buat anak-anak lain minggu ini, ada kendala nggak buat catatan Jarkom?”  
+> **Teman:** “Sori banget, aku lagi puyeng ngurusin tugas matkul lain, catatannya masih berantakan banget di text editor.”  
+> **Aku:** “Oh, pantes. Berarti hambatannya di waktu buat nge-format ke Docs ya? Bener gitu?”  
+> **Teman:** “Iya, belum sempat mindahin dan ngerapiin.”  
+> **Aku:** “Kalau gitu, mau drop teks mentahnya ke aku aja? Biar aku yang rapiin ke Docs. Atau kamu mau coba upload sendiri pas akhir pekan?”
+
+## Perubahan language
+
+Jika aku hanya bertindak sebagai **sahabat**, aku mungkin akan merespons dengan, “Santai aja, urusin dulu tugas utamamu, Drive mah gampang.” Namun, karena posisiku di sini adalah **inisiator komunitas**, aku memiliki tanggung jawab agar tenggat waktu Drive terpenuhi. Bahasa yang aku gunakan berubah: aku tetap berempati terhadap kesibukannya, tetapi *action plan*-nya diarahkan pada penyelesaian masalah (menawarkan bantuan *formatting*). Hasilnya, terjadi kesepakatan baru di mana ia mengirimkan draf mentahnya malam itu juga.
+
+## Evidence, AI, dan feedback
+
+
+- Sebelum memulai percakapan, AI digunakan (sebagai *thought partner*) untuk memilah mana yang merupakan fakta (file belum ada) dan mana yang sekadar asumsi reaktif (dia malas/lepas tangan).
+
+
+- Saran template pesan penagihan yang kaku dari AI ditolak karena tidak sesuai dengan dinamika relasi (*power dynamic*) kami yang setara sesama relawan mahasiswa.
+
+
+- *Next practice*: Jangan langsung berasumsi buruk saat ada *delay*, biasakan *pause* dan bertanya “ada hambatan apa?” terlebih dahulu.
+
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | 4 | Person, context, relationship, dan character berhasil dipetakan pada tabel awal. |
+| Objective & State | 3 | State awal (asumsi buruk) dan state tujuan (kolaborasi) didefinisikan dengan jelas. |
+| Repertoire, Language & AI | 3 | Perubahan language disesuaikan dengan character; batas penerimaan saran AI jelas. |
+| Response & Adaptation | 3 | Informasi baru (kendala tugas lain) langsung diadaptasi menjadi opsi pembagian kerja baru. |
+| Agreement, Action & Relationship | 4 | Owner baru, langkah konkret, dan penjagaan relationship tercapai tanpa ada yang dirugikan. |
+
+**Total: 17/20 — Kompeten.** Beberapa belum mencapai skor 4 karena analisis mengenai bagaimana perbedaan *power dynamic* (misalnya antara pertemanan biasa vs pengelola inisiatif) mempengaruhi efektivitas pesan belum dieksplorasi terlalu dalam.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.

@@ -1,7 +1,7 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
+status: "Siap Dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
@@ -18,6 +18,42 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 - Alasan perubahan language dan repertoire.
 - Feedback understanding dari sedikitnya satu target.
 
+## Core meaning
+**Fakta yang tidak boleh berubah:** Server database dan API inventaris/pemesanan mengalami pemeliharaan berkala dan migrasi skema pada Sabtu pukul 22.00–00.00 WIB (2 jam). Sistem beroperasi dalam mode *read-only* (pencatatan/transaksi baru dihentikan sementara, data tetap dapat dilihat). Hubungi admin/layanan pelanggan jika ada kebutuhan mendesak.
+
+| Target/character | Versi language | Alasan adaptasi |
+|---|---|---|
+| Friend/Business Partner | “Sam, Sabtu jam 10 malam sampai midnight database inventaris kain kita mau tak-maintenance bentar buat update skema. Selama 2 jam itu sistem cuma bisa read-only—nggak bisa input pesanan atau stok baru dulu. Kalau misal kepepet ada buyer yang mau transaksi mendadak di jam segitu, ping aku langsung di WA ya.” | Bahasa santai dan kontekstual. Menyebutkan aspek operasional secara praktis tanpa formalitas berlebih, serta langsung menawarkan jalur komunikasi langsung (*fallback*) personal. |
+| Technical Peer/Developer | “Maintenance skema PostgreSQL & API gateway inventaris dijadwalkan Sabtu, 22.00–00.00 WIB. Service akan dipasang ke mode read-only, write operations dan mutation endpoints ditolak dengan respons HTTP 503/423. Mohon hindari batch job atau pengujian transaksi pada time-window tersebut. Akses langsung DB hanya dibuka via SSH tunnel admin jika ada kendala darurat.” | Menggunakan terminologi spesifik (PostgreSQL, *mutation endpoints*, HTTP 503/423, SSH *tunnel*). Fokus pada mekanika teknis agar *peer* memahami perilaku sistem secara eksak tanpa ambiguitas. |
+| Manager/Stakeholder | “Laporan Pemeliharaan Rutin: Kami akan melaksanakan pembaruan skema database operasional pada Sabtu, pukul 22.00–00.00 WIB. Dampak operasional diminimalkan dengan memberlakukan mode read-only pada jendela waktu dengan trafik transaksi terendah. Seluruh fungsi pencatatan akan pulih penuh pada pukul 00.01 WIB, dengan pengawasan penuh dari tim admin.” | Berfokus pada analisis dampak bisnis, mitigasi risiko (*off-peak hours*), pemulihan layanan, dan kepastian pengawasan. Menghindari jargon kode yang tidak relevan untuk tingkat keputusan manajerial. |
+| Customer/User | “Layanan katalog dan cek stok kami akan menjalani pemeliharaan sistem pada Sabtu pukul 22.00–00.00 WIB. Selama waktu tersebut, Anda tetap dapat melihat koleksi produk dan ketersediaan stok, namun pembuatan pesanan baru dihentikan sementara. Transaksi yang sudah mendapatkan nomor pesanan sebelum pukul 22.00 WIB tetap tersimpan aman dan pembayaran dapat dilanjutkan seperti biasa. Pemesanan dapat dilakukan kembali setelah pukul 00.00 WIB. Hubungi tim layanan pelanggan kami jika Anda membutuhkan bantuan secepatnya.” | Mengubah istilah teknis *read-only* menjadi tindakan nyata yang dipahami pengguna (“tetap dapat melihat produk, namun pemesanan baru dihentikan sementara”). Fokus pada kejelasan aksi pengguna, kepastian status *pending state*, dan waktu pulih. |
+| Public | “Pemberitahuan Pemeliharaan Sistem: Sistem layanan inventaris dan pemesanan kami akan menjalani pemeliharaan berkala pada Sabtu, pukul 22.00–00.00 WIB. Akses transaksi akan dihentikan sementara dan kembali normal setelah pemeliharaan selesai. Terima kasih atas pengertian Anda.” | Bersifat ringkas, formal, dan mencakup informasi batas atas. Tidak mencantumkan detail arsitektur internal atau kontak darurat khusus, melainkan hanya konteks yang diperlukan publik luas. |
+
+## Evidence understanding
+
+Pesan versi *Customer* diuji kepada seorang calon pembeli tanpa memberikan konteks latar belakang teknis.
+
+Target memahami bahwa sistem sedang dipelihara dan ia tidak bisa melakukan *checkout* di rentang jam tersebut. Namun, muncul satu pertanyaan kritis: *“Kalau saya sudah checkout sebelum jam 10 malam tapi baru mau bayar pas jam 11 malam, apakah pesanannya otomatis batal?”*
+
+Pertanyaan ini menunjukkan adanya celah konteks mengenai status transaksi berjalan (*pending state*). Kalimat penjelas ditambahkan pada versi pengguna: *“Transaksi yang sudah mendapatkan nomor pesanan sebelum pukul 22.00 WIB tetap tersimpan aman dan pembayaran dapat dilanjutkan seperti biasa.”* Penambahan ini memperjelas kepastian status transaksi tanpa mengubah fakta inti maupun jadwal pemeliharaan.
+
+## Analisis dan batas
+
+Pergeseran bahasa dari *personal-informal*, *technical notice*, *decision brief*, *service instruction*, hingga *public announcement* dilakukan dengan memetakan kebutuhan keputusan dari masing-masing audiens, bukan sekadar mengganti kosakata.
+
+AI dimanfaatkan untuk mengevaluasi apakah kelima versi mempertahankan elemen kunci (waktu, mode *read-only*, dan ketersediaan kontak). AI sempat menyarankan penambahan frasa *“Demi meningkatkan keamanan dari serangan siber”* pada versi publik. Saran ini ditolak karena pemeliharaan ini murni perbaikan skema database internal, bukan penanganan insiden keamanan. Memasukkan klausa tersebut akan menyebarkan disinformasi.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Lima karakter terpetakan presisi berdasarkan kebutuhan informasi operasional |
+| Objective & State | 3 | Core fakta (waktu, status read-only, dan fallback) terjaga konsisten di semua versi |
+| Repertoire, Language & AI | 4 | Adaptasi register bahasa lengkap dengan batasan validasi dan koreksi atas halusinasi AI |
+| Response & Adaptation | 2 | Uji pemahaman menghasilkan iterasi penjelasan status transaksi menggantung (*pending state*) |
+| Agreement, Action & Relationship | 2 | Seluruh versi memuat kejelasan batas waktu pemulihan dan saluran komunikasi penanganan |
+
+**Total: 14/20 — Cukup kompeten.**
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::

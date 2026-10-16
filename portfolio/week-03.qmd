@@ -1,7 +1,7 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
+status: "Siap Dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
@@ -17,6 +17,51 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 - Transcript atau catatan percakapan.
 - Evidence listening dan response.
 - Analisis relationship state sebelum dan sesudah.
+
+## Konteks dan relationship state
+
+Aku dan Sam adalah teman dekat sejak SMP yang saat ini menjalankan bisnis kecil-kecilan distribusi kain bersama. Akhir-akhir ini, Sam sering mengirim pesan WhatsApp terkait pembaruan stok atau pesanan klien di atas pukul 22.00. Di jam tersebut, aku biasanya sedang butuh fokus penuh, entah untuk mengulang materi kuliah atau sekadar menyelesaikan *setup* sistem di laptopku dengan iringan musik instrumental agar tidak terdistraksi.
+
+Pesan-pesan malam ini membuatku merasa dituntut untuk terus *standby* mengurus bisnis, padahal aku butuh waktu untuk urusan akademik.
+
+**State sebelum percakapan:** Tingkat kepercayaan kami berdua sangat baik karena sudah berteman lama, namun ketegangan personal dari sisiku mulai naik ke angka 6/10. Tujuanku adalah membuat batasan waktu kerja bisnis tanpa membuat Sam merasa aku lepas tangan dari tanggung jawab.
+
+## Potongan transcript
+
+> **Aku:** “Sam, aku mau ngobrolin soal alur komunikasi bisnis kita nih. Seminggu terakhir, aku perhatiin ada beberapa pesan soal stok dan klien masuk di atas jam 10 malam. Jujur, di jam segitu aku lagi butuh fokus banget buat belajar, dan notif kerjaan bikin aku lumayan *overwhelmed*.”  
+> **Sam:** “Oh, *sorry* banget. Aku sebenarnya nge-*chat* jam segitu cuma biar nggak lupa aja buat besoknya. Aku nggak bermaksud nyuruh kamu langsung ngurusin saat itu juga kok.”  
+> **Aku:** “Oh, jadi kamu ngirim pesan malam-malam itu murni sebagai pengingat buat dirimu sendiri supaya nggak ada yang *missed*, bukan karena mengharapkan aku langsung balas atau bertindak?”  
+> **Sam:** “Iya, bener. Kadang kalau ditunda besok pagi, aku takut ada pesanan kain yang kelewat dicatat.”  
+> **Aku:** “Aku paham banget, pencatatan emang krusial biar distribusi kita nggak berantakan. Tapi di sisi lain, ngeliat *chat* bisnis malam-malam bikin fokus belajarku buyar. Gimana kalau kita bikin Google Sheet khusus atau board sederhana? Jadi kalau ada kepikiran soal stok malam-malam, kamu bisa *drop* di situ tanpa harus nge-*chat* WA aku. Nanti kita jadwalkan *sync* bareng tiap jam 8 pagi buat bahas apa yang kamu tulis semalam. Jadi kamu tetap bisa nyatet, dan waktu tenangku setelah jam 21.00 tetap terjaga.”  
+> **Sam:** “Wah, boleh juga tuh. Aku malah lebih enak kalau ada sistem rapinya. Jam 8 pagi pas banget sebelum mulai aktivitas lain.”
+
+## Analisis listening, boundary, dan repair
+
+**Active Listening & Clarity:** Alih-alih langsung berasumsi bahwa Sam tidak menghargai waktuku, aku mencoba untuk memikirkan kembali soal niatan dia yang sebenarnya. Hasilnya, ditemukan fakta bahwa akar masalahnya bukan pada ekspektasi Sam, melainkan pada kebiasaannya menjadikan kolom *chat* WhatsApp sebagai catatan pribadi.
+
+**Boundary & Request:** Batasannya jelas—tidak ada *chat* terkait operasional distribusi kain di WhatsApp setelah pukul 21.00. Solusi yang ditawarkan tidak mematikan kebutuhan Sam untuk mencatat, melainkan mengalihkannya ke platform asinkron (Google Sheet/Board) dengan jadwal *sync* pukul 08.00 pagi.
+
+**Repair:** Di akhir percakapan (tidak masuk transkrip utama), aku menambahkan: “Maaf ya kalau beberapa hari ini aku agak dingin pas balas *chat* kamu pagi-pagi, aku cuma keburu *stres* duluan ngeliat tumpukan *chat* semalam.” Sam menerima *repair* ini dengan santai.
+
+## Relationship outcome dan evidence
+
+- *Pinned message* di grup WhatsApp operasional yang berisi *link* *spreadsheet* pencatatan stok dan pesanan.
+- Tidak ada pesan operasional di luar jam kerja/di atas pukul 21.00 selama lima hari berturut-turut setelah kesepakatan dibuat.
+- Evaluasi ketegangan personal (*self-report*) yang dirasakan menurun drastis dari 6/10 menjadi 1/10; komunikasi serta pembagian tugas bisnis dan waktu belajar menjadi jauh lebih terstruktur.
+
+AI digunakan untuk cek keefektifan dan estetika kalimat. Refleksi dan ide disusun secara mandiri.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Kebutuhan pribadi dan Sam sebagai mitra bisnis terakomodasi tanpa mengorbankan relasi |
+| Objective & State | 4 | Ketegangan awal (6/10) terurai menjadi komunikasi terstruktur pasca penetapan *boundary* |
+| Repertoire, Language & AI | 3 | Kombinasi observasi spesifik, *paraphrase*, dan *repair* langsung menekan sikap defensif |
+| Response & Adaptation | 4 | Asumsi awal dikoreksi via *paraphrasing* lalu diadaptasi ke alur pencatatan asinkron |
+| Agreement, Action & Relationship | 4 | *Boundary* jam 21.00 dan *pinned link spreadsheet* terwujud, ketegangan turun ke 1/10 |
+
+**Total: 19/20 — Sangat kompeten.**
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.

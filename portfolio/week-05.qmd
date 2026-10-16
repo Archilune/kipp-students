@@ -1,7 +1,7 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
+status: "Siap Dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
@@ -18,6 +18,55 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 - Transcript/paraphrase serta problem impact dan constraint.
 - Shared problem statement yang dikonfirmasi partner.
 
+## Initial assumption dan rencana discovery
+
+Aku berasumsi mahasiswa non-himpunan kesulitan belajar karena tidak punya akses ke arsip ujian atau rangkuman materi yang beredar eksklusif di dalam himpunan. Jadi, solusinya adalah membagikan *link* Google Drive berisi catatan materi yang aku buat sendiri dan dibantu oleh beberapa teman.
+
+Sebelum menyusun dan merapikan folder Drive tersebut, aku mewawancarai Tomi (nama samaran), teman seangkatan yang juga non-himpunan, untuk memvalidasi kebutuhan ini.
+
+**Pertanyaan utama:**
+
+1. Bagaimana caramu biasanya mencari referensi tambahan buat persiapan UTS?
+2. Pas dapet materi dari kating atau teman, apa kendala utamanya saat mulai belajar?
+3. Kalau kamu dikasih akses ke folder arsip materi, bagaimana caramu memanfaatkannya?
+4. Batasan (*constraint*) apa yang bikin kamu malas buka platform berbagi materi?
+
+## Potongan transcript
+
+> **Aku:** “Tom, kalau misalnya ada link Google Drive terbuka isinya lengkap catatanku soal semua mata kuliah, menurutmu itu udah nyelesaiin masalah ketersediaan materi buat anak non-himpunan belum?”  
+> **Tomi:** “Ngebantu banget sih, tapi jujur kadang kalau bentuknya dokumen panjang-panjang, aku malah pusing mulainya dari mana. Apalagi kalau UTS udah deket.”  
+> **Aku:** “Oh, jadi tantangan utamanya bukan sekadar nggak ada akses ke materi, tapi lebih ke bingung nentuin prioritas belajarnya kalau materinya terlalu banyak?”  
+> **Tomi:** “Nah, bener. Kadang file-nya banyak banget, aku nge-blank. Daripada dikasih satu buku catatan utuh, aku lebih butuh cheatsheet atau contoh penyelesaian soal kodingan yang step-by-step.”  
+> **Aku:** “Terus, kalau dari sisi platform, ada hal yang bikin kamu males nggak pas mau akses materi belajar?”  
+> **Tomi:** “Males kalau disuruh join grup Discord/Telegram baru, atau harus login-login bikin akun. Pengennya yang diklik langsung kebaca di HP atau laptop tanpa banyak loading.”
+
+## Pembaruan pembacaan
+
+Initial assumption “kelangkaan akses materi” mementahkan asumsi awal: masalah utamanya bukan kelangkaan informasi, melainkan *cognitive overload*. Melempar folder berisi puluhan Google Docs mentah justru menambah beban mental penggunanya. Mereka membutuhkan kurasi seperti *cheatsheet* dan alur belajar, bukan sekadar *data dump*. Selain itu, solusi harus *frictionless access* tanpa mewajibkan registrasi atau instalasi aplikasi baru.
+
+**Shared problem statement yang dikonfirmasi Tomi:**
+
+> “Mahasiswa non-himpunan yang sedang mempersiapkan ujian membutuhkan akses materi yang terkurasi menjadi ringkasan dan langkah penyelesaian soal secara terstruktur, yang bisa diakses tanpa proses registrasi atau instalasi aplikasi tambahan, karena tumpukan dokumen mentah yang tidak memiliki prioritas baca justru memperlambat proses belajar.”
+
+Tomi membalas: *“Setuju 100%. Kata kuncinya di prioritas baca dan nggak ribet aksesnya.”*
+
+## Evidence, feedback, dan next step
+
+- Catatan ringkas, wawancara via telepon, dan tangkapan layar chat WhatsApp saat Tomi mengonfirmasi *Problem Statement*.
+- AI dipakai secara terbatas dengan memasukkan transkrip mentah teranonymisasi untuk mengisolasi kalimat ke dalam label `fact` (butuh *cheatsheet*), `interpretation` (bingung menentukan prioritas), dan `constraint` (tidak mau membuat akun baru/login).
+- *Next practice/step*: Mengubah strategi dari sekadar membagikan folder Google Drive mentah menjadi membuat halaman ringkas atau *roadmap* terstruktur sebelum mengarahkan pengunjung ke file spesifik.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Karakter dan batasan Tomi (anti-ribet, mudah overwhelmed) teridentifikasi jelas |
+| Objective & State | 4 | Asumsi awal (*data dump*) berhasil didekonstruksi menjadi masalah *cognitive overload* |
+| Repertoire, Language & AI | 3 | Menggunakan *open questions* dan *paraphrase*; AI dipakai murni untuk ekstraksi data kategorikal |
+| Response & Adaptation | 3 | Menahan diri untuk tidak memaksakan ide *Google Drive folder* setelah mendengar *feedback* |
+| Agreement, Action & Relationship | 3 | *Shared problem statement* divalidasi oleh target; rencana eksekusi diubah menjadi *curated roadmap* |
+
+**Total: 17/20 — Sudah kompeten.**
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::

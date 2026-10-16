@@ -17,6 +17,60 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Satu episode komunikasi dengan diri sendiri.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
+## Episode
+
+**Event:** Sistem pengujian otomatis pada repositori tugas programming mengembalikan status *failed* pada skenario pengujian.
+
+| Lapisan | Catatan Analisis |
+|---|---|
+| Fact | Skenario pengujian ke-4 gagal akibat *connection timeout*; skenario 1 sampai 3 lulus; waktu pengumpulan tersisa 18 jam |
+| Initial story | “Aku tidak bakalan sanggup menguasai pemrosesan tingkat rendah ini, logikaku kacau, dan perbaikan apa pun akan tetap berujung gagal.” |
+| Emotion/body signal | Frustrasi 8/10, cemas 8/10, leher tegang, ada dorongan kuat untuk menutup terminal |
+| Reactive character | “The Evader” yang mengajak berhenti mencoba dan pasrah menerima nilai seadanya |
+| Desired character | “Systematic Troubleshooter” yang mengisolasi variabel eror berdasarkan *stack trace* |
+
+Initial story yang muncul melompati fakta objektif. Sistem otomatis hanya melaporkan adanya batas waktu koneksi yang terlampaui pada satu skenario khusus, bukan memberikan penilaian atas kapasitas diri atau intelegensiku.
+
+## Alternative narratives
+
+1. **Localised bug:** Kegagalan ini bukan tanda bahwa seluruh arsitektur program rusak, melainkan indikasi adanya alokasi memori atau *buffer* yang belum tertangani secara tepat pada kondisi batas.
+2. **Diagnostic signal:** Output eror dari sistem pengujian bukanlah bentuk hukuman, melainkan petunjuk teknis mengenai lokasi bagian sistem yang memerlukan optimasi.
+3. **Time window:** Waktu 18 jam tersisa masih sangat memadai jika dipakai untuk melacak satu fungsi spesifik daripada membongkar ulang seluruh isi kode dari awal.
+
+Narasi pertama dan kedua paling rasional karena berpatokan pada fakta teknis serta mengarahkan pikiran pada tindakan nyata tanpa terbawa emosi.
+
+## Internal conversation dan agreement
+
+> **The Evader:** “Matikan saja laptopnya sekarang, kamu sudah pusing seharian dan logikamu memang tidak sampai ke materi ini.”  
+> **Systematic Troubleshooter:** “Tunggu dulu. Program ini berhasil di tiga tes awal. Artinya struktur utamanya sudah benar, tinggal satu kondisi ekstrem yang perlu diisolasi.”  
+> **Aku:** “Kita ambil jeda 15 menit dulu dari depan layar. Setelah itu, kita cetak *log* eksekusi fungsi pengiriman data dan periksa baris mana yang menahan proses.”
+
+**Internal agreement:** Meninggalkan meja kerja sebentar untuk minum, kembali pada pukul 20.15 untuk mengisolasi baris kode yang mengalami penundaan respons, lalu menuliskan dua skenario tes buatan sendiri sebelum melakukan *commit* ulang.
+
+## Evidence tindakan
+
+- Melakukan *profiling* pada fungsi penerimaan paket untuk menemukan titik penundaan proses.
+- Membuat catatan perbaikan pada penanganan alokasi memori sementara yang terisolasi dalam repositori uji.
+- Melakukan *commit* Git baru pukul 21.30 dengan pesan perbaikan penanganan batas *timeout* yang akhirnya meluluskan seluruh skenario uji otomatis.
+
+Hasil pengujian ulang menunjukkan status *passed* di semua skenario. Pengalaman ini memperbarui pemahaman mandiri bahwa kegagalan sistem teknis memerlukan penelusuran fakta, bukan evaluasi personal yang emosional.
+
+## Feedback, AI, dan refleksi
+
+Sesi refleksi mandiri mencatat bahwa anggapan “logikaku kacau” merupakan bentuk dramatisasi dari rasa lelah. AI digunakan sebatas membantu menganalisis arti dari kode *error signal* pada sistem operasi tanpa meminta AI membuatkan fungsi utama.
+Rencana praktik berikutnya: Setiap kali menemukan pengujian kode yang gagal, aku akan menuliskan fakta pesan eror pada catatan ringkas sebelum menyentuh papan ketik kembali.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Dua karakter internal teridentifikasi jelas tanpa mengabaikan kondisi emosi |
+| Objective & State | 3 | Pergeseran dari kondisi panik menuju pemecahan masalah sistematis tercatat rinci |
+| Repertoire, Language & AI | 3 | Penggunaan jeda fisik dan isolasi *log* berhasil menekan reaksi impulsif |
+| Response & Adaptation | 3 | Informasi dari pesan eror diadaptasi menjadi langkah perbaikan fungsi spesifik |
+| Agreement, Action & Relationship | 4 | Kesepakatan internal terwujud dalam bentuk *commit* perbaikan yang valid |
+
+**Total: 16/20 — Sudah cukup kompeten.**
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
