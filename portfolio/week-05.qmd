@@ -67,6 +67,7 @@ Tomi membalas: *“Setuju 100%. Kata kuncinya di prioritas baca dan nggak ribet 
 | Agreement, Action & Relationship | 3 | *Shared problem statement* divalidasi oleh target; rencana eksekusi diubah menjadi *curated roadmap* |
 
 **Total: 17/20 — Sudah kompeten.**
+
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::

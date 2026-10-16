@@ -49,7 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-e068420ea456326da06e1a0f8a236e46.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-ca7c1cd07f039ec78c46b2d73133e0b2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -272,12 +272,16 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
+  <li><a href="#core-meaning" id="toc-core-meaning" class="nav-link" data-scroll-target="#core-meaning">Core meaning</a></li>
+  <li><a href="#evidence-understanding" id="toc-evidence-understanding" class="nav-link" data-scroll-target="#evidence-understanding">Evidence understanding</a></li>
+  <li><a href="#analisis-dan-batas" id="toc-analisis-dan-batas" class="nav-link" data-scroll-target="#analisis-dan-batas">Analisis dan batas</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
   <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#self-assessment-1" id="toc-self-assessment-1" class="nav-link" data-scroll-target="#self-assessment-1">Self-assessment</a>
   <ul class="collapse">
   <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
   </ul></li>
@@ -326,6 +330,107 @@ ul.task-list li input[type="checkbox"] {
 <li>Alasan perubahan language dan repertoire.</li>
 <li>Feedback understanding dari sedikitnya satu target.</li>
 </ul>
+</section>
+<section id="core-meaning" class="level2">
+<h2 class="anchored" data-anchor-id="core-meaning">Core meaning</h2>
+<p><strong>Fakta yang tidak boleh berubah:</strong> Server database dan API inventaris/pemesanan mengalami pemeliharaan berkala dan migrasi skema pada Sabtu pukul 22.00–00.00 WIB (2 jam). Sistem beroperasi dalam mode <em>read-only</em> (pencatatan/transaksi baru dihentikan sementara, data tetap dapat dilihat). Hubungi admin/layanan pelanggan jika ada kebutuhan mendesak.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Target/character</th>
+<th>Versi language</th>
+<th>Alasan adaptasi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Friend/Business Partner</td>
+<td>“Sam, Sabtu jam 10 malam sampai midnight database inventaris kain kita mau tak-maintenance bentar buat update skema. Selama 2 jam itu sistem cuma bisa read-only—nggak bisa input pesanan atau stok baru dulu. Kalau misal kepepet ada buyer yang mau transaksi mendadak di jam segitu, ping aku langsung di WA ya.”</td>
+<td>Bahasa santai dan kontekstual. Menyebutkan aspek operasional secara praktis tanpa formalitas berlebih, serta langsung menawarkan jalur komunikasi langsung (<em>fallback</em>) personal.</td>
+</tr>
+<tr class="even">
+<td>Technical Peer/Developer</td>
+<td>“Maintenance skema PostgreSQL &amp; API gateway inventaris dijadwalkan Sabtu, 22.00–00.00 WIB. Service akan dipasang ke mode read-only, write operations dan mutation endpoints ditolak dengan respons HTTP 503/423. Mohon hindari batch job atau pengujian transaksi pada time-window tersebut. Akses langsung DB hanya dibuka via SSH tunnel admin jika ada kendala darurat.”</td>
+<td>Menggunakan terminologi spesifik (PostgreSQL, <em>mutation endpoints</em>, HTTP 503/423, SSH <em>tunnel</em>). Fokus pada mekanika teknis agar <em>peer</em> memahami perilaku sistem secara eksak tanpa ambiguitas.</td>
+</tr>
+<tr class="odd">
+<td>Manager/Stakeholder</td>
+<td>“Laporan Pemeliharaan Rutin: Kami akan melaksanakan pembaruan skema database operasional pada Sabtu, pukul 22.00–00.00 WIB. Dampak operasional diminimalkan dengan memberlakukan mode read-only pada jendela waktu dengan trafik transaksi terendah. Seluruh fungsi pencatatan akan pulih penuh pada pukul 00.01 WIB, dengan pengawasan penuh dari tim admin.”</td>
+<td>Berfokus pada analisis dampak bisnis, mitigasi risiko (<em>off-peak hours</em>), pemulihan layanan, dan kepastian pengawasan. Menghindari jargon kode yang tidak relevan untuk tingkat keputusan manajerial.</td>
+</tr>
+<tr class="even">
+<td>Customer/User</td>
+<td>“Layanan katalog dan cek stok kami akan menjalani pemeliharaan sistem pada Sabtu pukul 22.00–00.00 WIB. Selama waktu tersebut, Anda tetap dapat melihat koleksi produk dan ketersediaan stok, namun pembuatan pesanan baru dihentikan sementara. Transaksi yang sudah mendapatkan nomor pesanan sebelum pukul 22.00 WIB tetap tersimpan aman dan pembayaran dapat dilanjutkan seperti biasa. Pemesanan dapat dilakukan kembali setelah pukul 00.00 WIB. Hubungi tim layanan pelanggan kami jika Anda membutuhkan bantuan secepatnya.”</td>
+<td>Mengubah istilah teknis <em>read-only</em> menjadi tindakan nyata yang dipahami pengguna (“tetap dapat melihat produk, namun pemesanan baru dihentikan sementara”). Fokus pada kejelasan aksi pengguna, kepastian status <em>pending state</em>, dan waktu pulih.</td>
+</tr>
+<tr class="odd">
+<td>Public</td>
+<td>“Pemberitahuan Pemeliharaan Sistem: Sistem layanan inventaris dan pemesanan kami akan menjalani pemeliharaan berkala pada Sabtu, pukul 22.00–00.00 WIB. Akses transaksi akan dihentikan sementara dan kembali normal setelah pemeliharaan selesai. Terima kasih atas pengertian Anda.”</td>
+<td>Bersifat ringkas, formal, dan mencakup informasi batas atas. Tidak mencantumkan detail arsitektur internal atau kontak darurat khusus, melainkan hanya konteks yang diperlukan publik luas.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="evidence-understanding" class="level2">
+<h2 class="anchored" data-anchor-id="evidence-understanding">Evidence understanding</h2>
+<p>Pesan versi <em>Customer</em> diuji kepada seorang calon pembeli tanpa memberikan konteks latar belakang teknis.</p>
+<p>Target memahami bahwa sistem sedang dipelihara dan ia tidak bisa melakukan <em>checkout</em> di rentang jam tersebut. Namun, muncul satu pertanyaan kritis: <em>“Kalau saya sudah checkout sebelum jam 10 malam tapi baru mau bayar pas jam 11 malam, apakah pesanannya otomatis batal?”</em></p>
+<p>Pertanyaan ini menunjukkan adanya celah konteks mengenai status transaksi berjalan (<em>pending state</em>). Kalimat penjelas ditambahkan pada versi pengguna: <em>“Transaksi yang sudah mendapatkan nomor pesanan sebelum pukul 22.00 WIB tetap tersimpan aman dan pembayaran dapat dilanjutkan seperti biasa.”</em> Penambahan ini memperjelas kepastian status transaksi tanpa mengubah fakta inti maupun jadwal pemeliharaan.</p>
+</section>
+<section id="analisis-dan-batas" class="level2">
+<h2 class="anchored" data-anchor-id="analisis-dan-batas">Analisis dan batas</h2>
+<p>Pergeseran bahasa dari <em>personal-informal</em>, <em>technical notice</em>, <em>decision brief</em>, <em>service instruction</em>, hingga <em>public announcement</em> dilakukan dengan memetakan kebutuhan keputusan dari masing-masing audiens, bukan sekadar mengganti kosakata.</p>
+<p>AI dimanfaatkan untuk mengevaluasi apakah kelima versi mempertahankan elemen kunci (waktu, mode <em>read-only</em>, dan ketersediaan kontak). AI sempat menyarankan penambahan frasa <em>“Demi meningkatkan keamanan dari serangan siber”</em> pada versi publik. Saran ini ditolak karena pemeliharaan ini murni perbaikan skema database internal, bukan penanganan insiden keamanan. Memasukkan klausa tersebut akan menyebarkan disinformasi.</p>
+</section>
+<section id="self-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensi</th>
+<th style="text-align: right;">Skor</th>
+<th>Evidence singkat</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Person &amp; Character</td>
+<td style="text-align: right;">3</td>
+<td>Lima karakter terpetakan presisi berdasarkan kebutuhan informasi operasional</td>
+</tr>
+<tr class="even">
+<td>Objective &amp; State</td>
+<td style="text-align: right;">3</td>
+<td>Core fakta (waktu, status read-only, dan fallback) terjaga konsisten di semua versi</td>
+</tr>
+<tr class="odd">
+<td>Repertoire, Language &amp; AI</td>
+<td style="text-align: right;">4</td>
+<td>Adaptasi register bahasa lengkap dengan batasan validasi dan koreksi atas halusinasi AI</td>
+</tr>
+<tr class="even">
+<td>Response &amp; Adaptation</td>
+<td style="text-align: right;">2</td>
+<td>Uji pemahaman menghasilkan iterasi penjelasan status transaksi menggantung (<em>pending state</em>)</td>
+</tr>
+<tr class="odd">
+<td>Agreement, Action &amp; Relationship</td>
+<td style="text-align: right;">2</td>
+<td>Seluruh versi memuat kejelasan batas waktu pemulihan dan saluran komunikasi penanganan</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: 14/20 — Cukup kompeten.</strong></p>
 <div class="callout callout-style-default callout-tip callout-titled" title="Lihat contoh pengisian">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -406,8 +511,8 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
 <p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
 </section>
-<section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<section id="self-assessment-1" class="level2">
+<h2 class="anchored" data-anchor-id="self-assessment-1">Self-assessment</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -873,7 +978,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Putu Nasya Adfarizka Winarta</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

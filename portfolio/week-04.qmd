@@ -54,6 +54,7 @@ AI dimanfaatkan untuk mengevaluasi apakah kelima versi mempertahankan elemen kun
 | Agreement, Action & Relationship | 2 | Seluruh versi memuat kejelasan batas waktu pemulihan dan saluran komunikasi penanganan |
 
 **Total: 14/20 — Cukup kompeten.**
+
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
