@@ -2,7 +2,7 @@
 title: "Relationship Conversation"
 week: 3
 status: "Siap Dinilai"
-self_score: "—"
+self_score: "19/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -28,20 +28,20 @@ Pesan-pesan malam ini membuatku merasa dituntut untuk terus *standby* mengurus b
 
 ## Potongan transcript
 
-> **Aku:** “Sam, aku mau ngobrolin soal alur komunikasi bisnis kita nih. Seminggu terakhir, aku perhatiin ada beberapa pesan soal stok dan klien masuk di atas jam 10 malam. Jujur, di jam segitu aku lagi butuh fokus banget buat belajar, dan notif kerjaan bikin aku lumayan *overwhelmed*.”  
-> **Sam:** “Oh, *sorry* banget. Aku sebenarnya nge-*chat* jam segitu cuma biar nggak lupa aja buat besoknya. Aku nggak bermaksud nyuruh kamu langsung ngurusin saat itu juga kok.”  
-> **Aku:** “Oh, jadi kamu ngirim pesan malam-malam itu murni sebagai pengingat buat dirimu sendiri supaya nggak ada yang *missed*, bukan karena mengharapkan aku langsung balas atau bertindak?”  
+> **Aku:** “Sam, aku mau ngobrolin soal alur komunikasi bisnis kita nih. Seminggu terakhir, aku perhatiin ada beberapa pesan soal stok dan klien masuk di atas jam 10 malam. Jujur, di jam segitu aku lagi butuh fokus banget buat belajar, dan notif kerjaan bikin aku lumayan stress.”  
+> **Sam:** “Oh, sorry banget. Aku sebenarnya ngechat jam segitu cuma biar nggak lupa aja buat besoknya. Aku nggak bermaksud nyuruh kamu langsung ngurusin saat itu juga kok.”  
+> **Aku:** “Oh, jadi kamu ngirim pesan malam-malam itu murni sebagai pengingat buat dirimu sendiri supaya nggak ada info yang ketinggalan, bukan karena mengharapkan aku langsung balas atau bertindak?”  
 > **Sam:** “Iya, bener. Kadang kalau ditunda besok pagi, aku takut ada pesanan kain yang kelewat dicatat.”  
-> **Aku:** “Aku paham banget, pencatatan emang krusial biar distribusi kita nggak berantakan. Tapi di sisi lain, ngeliat *chat* bisnis malam-malam bikin fokus belajarku buyar. Gimana kalau kita bikin Google Sheet khusus atau board sederhana? Jadi kalau ada kepikiran soal stok malam-malam, kamu bisa *drop* di situ tanpa harus nge-*chat* WA aku. Nanti kita jadwalkan *sync* bareng tiap jam 8 pagi buat bahas apa yang kamu tulis semalam. Jadi kamu tetap bisa nyatet, dan waktu tenangku setelah jam 21.00 tetap terjaga.”  
+> **Aku:** “Aku paham banget, pencatatan emang krusial biar distribusi kita nggak berantakan. Tapi di sisi lain, ngeliat chat bisnis malam-malam bikin fokus belajarku buyar. Gimana kalau kita bikin Google Sheet khusus atau board sederhana? Jadi kalau ada kepikiran soal stok malam-malam, kamu bisa drop di situ tanpa harus ngechat WA aku. Nanti kita jadwalkan sinkronisasi bareng tiap jam 8 pagi buat bahas apa yang kamu tulis semalam. Jadi kamu tetap bisa nyatet, dan waktu tenangku setelah jam 21.00 tetap terjaga.”  
 > **Sam:** “Wah, boleh juga tuh. Aku malah lebih enak kalau ada sistem rapinya. Jam 8 pagi pas banget sebelum mulai aktivitas lain.”
 
 ## Analisis listening, boundary, dan repair
 
-**Active Listening & Clarity:** Alih-alih langsung berasumsi bahwa Sam tidak menghargai waktuku, aku mencoba untuk memikirkan kembali soal niatan dia yang sebenarnya. Hasilnya, ditemukan fakta bahwa akar masalahnya bukan pada ekspektasi Sam, melainkan pada kebiasaannya menjadikan kolom *chat* WhatsApp sebagai catatan pribadi.
+**Active Listening & Clarity:** Alih-alih langsung berasumsi bahwa Sam tidak menghargai waktuku, aku mencoba untuk memikirkan kembali soal niatan dia yang sebenarnya. Hasilnya, ditemukan fakta bahwa akar masalahnya bukan pada ekspektasi Sam, melainkan pada kebiasaannya menjadikan kolom chat WhatsApp sebagai catatan pribadi.
 
-**Boundary & Request:** Batasannya jelas—tidak ada *chat* terkait operasional distribusi kain di WhatsApp setelah pukul 21.00. Solusi yang ditawarkan tidak mematikan kebutuhan Sam untuk mencatat, melainkan mengalihkannya ke platform asinkron (Google Sheet/Board) dengan jadwal *sync* pukul 08.00 pagi.
+**Boundary & Request:** Batasannya jelas—tidak ada chat terkait operasional distribusi kain di WhatsApp setelah pukul 21.00. Solusi yang ditawarkan tidak mematikan kebutuhan Sam untuk mencatat, melainkan mengalihkannya ke platform asinkron (Google Sheet/Board) dengan jadwal sinkronisasi pukul 08.00 pagi.
 
-**Repair:** Di akhir percakapan (tidak masuk transkrip utama), aku menambahkan: “Maaf ya kalau beberapa hari ini aku agak dingin pas balas *chat* kamu pagi-pagi, aku cuma keburu *stres* duluan ngeliat tumpukan *chat* semalam.” Sam menerima *repair* ini dengan santai.
+**Repair:** Di akhir percakapan (tidak masuk transkrip utama), aku menambahkan: “Maaf ya kalau beberapa hari ini aku agak dingin pas balas chat kamu pagi-pagi, aku cuma keburu *stres* duluan ngeliat tumpukan chat semalam.” Sam menerima perbaikan ini dengan santai.
 
 ## Relationship outcome dan evidence
 
